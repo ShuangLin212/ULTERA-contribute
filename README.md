@@ -2,9 +2,9 @@ ULTERA Data Templates Repository: [github.com/PhasesResearchLab/ULTERA-contribut
 
 ## This Dataset
 
-- _Your name, affiliation, and contact_
-- _Brief description_
-- _Anything else you like to say_
+- Shuang Lin, PhD, PSU
+- RHEA ductility data and ductility criteria
+- RHEA hardness
 
 ## ULTERA Database
 This template repository was developed for contributing to the [**ULTERA Database**](https://ultera.org) carried under the 
