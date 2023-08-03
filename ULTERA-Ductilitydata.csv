@@ -1,0 +1,763 @@
+Name:,Shuang Lin
+Email:,spl5745@psu.edu
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,None
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+1,Ti38V15Nb23Hf24,BCC,AC+H+RX,none,Tensile Ductility,EXP,None,298.0,22.5,None,%,F2,10.1038/s41563-020-0750-4
+2,Ti38V15Nb23Hf24,BCC,AC,none,Tensile Ductility,EXP,None,298.0,20.0,None,%,F2,10.1038/s41563-020-0750-4
+3,Ti25V25Nb25Hf25,BCC,AC,none,Tensile Ductility,EXP,None,298.0,16.1,None,%,F2,10.1038/s41563-020-0750-4
+4,Hf0.5Nb0.5Ta0.5Ti1.5Zr,BCC,AC,none,Tensile Ductility,EXP,None,298.0,18.8,None,%,F2,10.1063/1.4966659  
+5,HfNbTiZr,BCC,AC+H,none,Tensile Ductility,EXP,None,298.0,14.9,None,%,P4,10.1063/1.4966659 
+6,HfNbTaTiZr,BCC,AC,none,Tensile Ductility,EXP,None,298.0,6.0,None,%,P4,10.1063/1.4966659 
+7,HfNbTiZr,BCC,None,none,Valence Electron Concentrations,DFT,None,0.0,4.25,None,None,T1,10.1063/1.4966659
+8,Hf0.5Nb0.5Ta0.5Ti1.5Zr,BCC,None,none,Valence Electron Concentrations,DFT,None,0.0,4.25,None,None,T1,10.1063/1.4966659
+9,HfNbTaTiZr,BCC,None,none,Valence Electron Concentrations,DFT,None,0.0,4.4,None,None,T1,10.1063/1.4966659
+10,HfMoTaTiZr,BCC,None,none,Valence Electron Concentrations,DFT,None,0.0,4.6,None,None,T1,10.1063/1.4966659
+11,HfMoNbTaTiZr,BCC,None,none,Valence Electron Concentrations,DFT,None,0.0,4.67,None,None,T1,10.1063/1.4966659
+12,HfMoNbTiZr,BCC,None,none,Valence Electron Concentrations,DFT,None,0.0,4.6,None,None,T1,10.1063/1.4966659
+13,MoNbTaVW,BCC,None,none,Valence Electron Concentrations,DFT,None,0.0,5.4,None,None,T1,10.1063/1.4966659
+14,MoNbTaW,BCC,None,none,Valence Electron Concentrations,DFT,None,0.0,5.5,None,None,T1,10.1063/1.4966659
+15,MoNbTaV,BCC,None,none,Valence Electron Concentrations,DFT,None,0.0,5.25,None,None,T1,10.1063/1.4966659
+16,HfNbTiV,BCC,AC,Ductility lowest limit,Tensile Ductility,EXP,None,298.0,28.0,None,%,F3,10.1039/d0mh01341b 
+17,Nb 30 Ti 40 Zr 30,BCC,None,Ductility lowest limit,estimated compressive ductility,EXP,None,295.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+18,Cr 20 Nb 30 Ti 40 Zr 10,BCC+Laves,None,none,Compressive Ductility,EXP,None,295.15,20.8,None,%,F6,10.1016/j.mtla.2021.101057
+19,Al 15 Cr 20 Nb 15 Ti 40 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,295.15,12.2,None,%,F6,10.1016/j.mtla.2021.101057
+20,Al 23 Cr 20 Nb 15 Ti 32 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,295.15,8.0,None,%,F6,10.1016/j.mtla.2021.101057
+21,Al 28 Cr 20 Nb 15 Ti 27 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,295.15,7.1,None,%,F6,10.1016/j.mtla.2021.101057
+22,Al 33 Cr 20 Nb 15 Ti 22 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,295.15,4.4,None,%,F6,10.1016/j.mtla.2021.101057
+23,Nb 30 Ti 40 Zr 30,BCC,None,Ductility lowest limit,estimated compressive ductility,EXP,None,873.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+24,Cr 20 Nb 30 Ti 40 Zr 10,BCC+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,873.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+25,Al 15 Cr 20 Nb 15 Ti 40 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,873.15,24.0,None,%,F6,10.1016/j.mtla.2021.101057
+26,Al 23 Cr 20 Nb 15 Ti 32 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,873.15,5.5,None,%,F6,10.1016/j.mtla.2021.101057
+27,Al 28 Cr 20 Nb 15 Ti 27 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,873.15,5.2,None,%,F6,10.1016/j.mtla.2021.101057
+28,Al 33 Cr 20 Nb 15 Ti 22 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,873.15,4.8,None,%,F6,10.1016/j.mtla.2021.101057
+29,Nb 30 Ti 40 Zr 30,BCC,None,Ductility lowest limit,estimated compressive ductility,EXP,None,973.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+30,Cr 20 Nb 30 Ti 40 Zr 10,BCC+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,973.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+31,Al 15 Cr 20 Nb 15 Ti 40 Zr 10,B2+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,973.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+32,Al 23 Cr 20 Nb 15 Ti 32 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,973.15,17.7,None,%,F6,10.1016/j.mtla.2021.101057
+33,Al 28 Cr 20 Nb 15 Ti 27 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,973.15,4.4,None,%,F6,10.1016/j.mtla.2021.101057
+34,Al 33 Cr 20 Nb 15 Ti 22 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,973.15,3.0,None,%,F6,10.1016/j.mtla.2021.101057
+35,Nb 30 Ti 40 Zr 30,BCC,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1073.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+36,Cr 20 Nb 30 Ti 40 Zr 10,BCC+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1073.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+37,Al 15 Cr 20 Nb 15 Ti 40 Zr 10,B2+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1073.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+38,Al 23 Cr 20 Nb 15 Ti 32 Zr 10,B2+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1073.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+39,Al 28 Cr 20 Nb 15 Ti 27 Zr 10,B2+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1073.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+40,Al 33 Cr 20 Nb 15 Ti 22 Zr 10,B2+Laves,None,none,Compressive Ductility,EXP,None,1073.15,4.0,None,%,F6,10.1016/j.mtla.2021.101057
+41,Nb 30 Ti 40 Zr 30,BCC,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1273.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+42,Cr 20 Nb 30 Ti 40 Zr 10,BCC+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1273.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+43,Al 15 Cr 20 Nb 15 Ti 40 Zr 10,B2+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1273.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+44,Al 23 Cr 20 Nb 15 Ti 32 Zr 10,B2+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1273.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+45,Al 28 Cr 20 Nb 15 Ti 27 Zr 10,B2+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1273.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+46,Al 33 Cr 20 Nb 15 Ti 22 Zr 10,B2+Laves,None,Ductility lowest limit,estimated compressive ductility,EXP,None,1273.15,30.0,None,%,F6,10.1016/j.mtla.2021.101057
+47,Ti0.5VNbMoTa,BCC,MA+SPS,mechanical alloying (MA) and spark plasma sintering (SPS),Compressive Ductility,EXP,None,298.15,8.6,None,%,T3,10.1016/j.jallcom.2020.158592
+48,Ti1VNbMoTa,BCC,MA+SPS,none,Compressive Ductility,EXP,None,298.15,24.9,None,%,T3,10.1016/j.jallcom.2020.158592
+49,Ti1.5VNbMoTa,BCC+FCC,MA+SPS,none,Compressive Ductility,EXP,None,298.15,10.8,None,%,T3,10.1016/j.jallcom.2020.158592
+50,Ti2VNbMoTa,BCC+FCC,MA+SPS,none,Compressive Ductility,EXP,None,298.15,7.9,None,%,T3,10.1016/j.jallcom.2020.158592
+51,VNbMoTaW,BCC,MA+SPS,none,Compressive Ductility,EXP,None,298.15,8.8,None,%,T3,10.1016/j.jallcom.2020.158592
+52,NbMoTaWVCr,BCC,MA+SPS,none,Compressive Ductility,EXP,None,298.15,5.3,None,%,T3,10.1016/j.jallcom.2020.158592
+53,NbMoTaW,BCC,MA+SPS,none,Compressive Ductility,EXP,None,298.15,8.0,None,%,T3,10.1016/j.jallcom.2020.158592
+54,Ti8Mo23Nb23Ta23W23,BCC,MA+SPS,none,Compressive Ductility,EXP,None,298.15,15.5,None,%,T3,10.1016/j.jallcom.2020.158592
+55,Al0.1CrNbVMo,BCC,MA+SPS,none,Compressive Ductility,EXP,None,298.15,6.1,None,%,T3,10.1016/j.jallcom.2020.158592
+56,MoNbTaTiV,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,30.0,None,%,T3,10.1016/j.jallcom.2020.158592
+57,MoNbTaVW,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,1.7,None,%,T3,10.1016/j.jallcom.2020.158592
+58,MoNbTaW,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,2.1,None,%,T3,10.1016/j.jallcom.2020.158592
+59,NbTaTiVW,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,20.0,None,%,T3,10.1016/j.jallcom.2020.158592
+60,NbTaVW,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,12.0,None,%,T3,10.1016/j.jallcom.2020.158592
+61,MoNbTaV,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,21.0,None,%,T3,10.1016/j.jallcom.2020.158592
+62,HfMoTaTiZr,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,4.0,None,%,T3,10.1016/j.jallcom.2020.158592
+63,HfMoNbTaTiZr,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,12.0,None,%,T3,10.1016/j.jallcom.2020.158592
+64,HfMoNbTiZr,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,10.1,None,%,T3,10.1016/j.jallcom.2020.158592
+65,AlNbTiV,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,5.0,None,%,T3,10.1016/j.jallcom.2020.158592
+66,CrMo0.5NbTa0.5TiZr,BCC,Arc-melting,none,Compressive Ductility,EXP,None,298.15,5.0,None,%,T3,10.1016/j.jallcom.2020.158592
+67,Al0.3CoCrCu0.3FeNi,FCC,A,Annealing 2hours,Tensile Ductility,EXP,None,1173.0,24.0,None,%,T1,10.1016/j.matdes.2020.109238
+68,Al0.3CoCrCu0.3FeNi,FCC,A,Annealing 6hours,Tensile Ductility,EXP,None,1173.0,29.0,None,%,T1,10.1016/j.matdes.2020.109238
+69,Al0.3CoCrCu0.3FeNi,FCC,AC,FSWed,Tensile Ductility,EXP,None,1173.0,24.0,None,%,T1,10.1016/j.matdes.2020.109238
+70,Al0.3CoCrCu0.3FeNi,FCC,H,+6hours,Tensile Ductility,EXP,None,1373.0,77.0,None,%,T1,10.1016/j.matdes.2020.109238
+71,Al0.3CoCrCu0.3FeNi,FCC,H,+6hours,Tensile Ductility,EXP,None,1373.0,83.0,None,%,T1,10.1016/j.matdes.2020.109238
+72,Al0.3CoCrCu0.3FeNi,FCC,None,As-rolled,Tensile Ductility,EXP,None,298.0,3.8,None,%,T1,10.1016/j.matdes.2020.109238
+73,Al0.3CoCrCu0.3FeNi,FCC,None,BM,Tensile Ductility,EXP,None,298.0,63.0,None,%,T1,10.1016/j.matdes.2020.109238
+74,Al0.3CoCrCu0.3FeNi,FCC,None,SZ material* (transverse direction),Tensile Ductility,EXP,None,298.0,37.0,None,%,T1,10.1016/j.matdes.2020.109238
+75,NbTaTi,FCC+BCC,None,none,Tensile Ductility,EXP,None,298.0,35.4,None,%,T2,10.1016/j.jallcom.2020.158003
+76,NbTaTi,FCC+BCC,None,none,Tensile Ductility,EXP,None,673.0,16.5,None,%,T2,10.1016/j.jallcom.2020.158003
+77,NbTaTi,FCC+BCC,None,none,Tensile Ductility,EXP,None,873.0,17.1,None,%,T2,10.1016/j.jallcom.2020.158003
+78,NbTaTi,FCC+BCC,None,none,Tensile Ductility,EXP,None,1073.0,12.2,None,%,T2,10.1016/j.jallcom.2020.158003
+79,NbTaTi,FCC+BCC,None,none,Tensile Ductility,EXP,None,1273.0,3.5,None,%,T2,10.1016/j.jallcom.2020.158003
+80,NbTaTi,FCC+BCC,None,none,Tensile Ductility,EXP,None,1473.0,2.3,None,%,T2,10.1016/j.jallcom.2020.158003
+81,NbTaZr,FCC+BCC,None,none,Tensile Ductility,EXP,None,298.0,16.9,None,%,T2,10.1016/j.jallcom.2020.158003
+82,NbTaZr,FCC+BCC,None,none,Tensile Ductility,EXP,None,673.0,9.2,None,%,T2,10.1016/j.jallcom.2020.158003
+83,NbTaZr,FCC+BCC,None,none,Tensile Ductility,EXP,None,873.0,12.8,None,%,T2,10.1016/j.jallcom.2020.158003
+84,NbTaZr,FCC+BCC,None,none,Tensile Ductility,EXP,None,1073.0,10.1,None,%,T2,10.1016/j.jallcom.2020.158003
+85,NbTaZr,FCC+BCC,None,none,Tensile Ductility,EXP,None,1273.0,2.9,None,%,T2,10.1016/j.jallcom.2020.158003
+86,NbTaZr,FCC+BCC,None,none,Tensile Ductility,EXP,None,1473.0,1.8,None,%,T2,10.1016/j.jallcom.2020.158003
+87,W30Ni28Fe28Co14,BCC+FCC+𝜇,None,none,Tensile Ductility,EXP,None,298.0,20.0,None,%,T2,10.1016/j.matpr.2020.12.462
+88,W35Ni26Fe26Co13,BCC+FCC+𝜇,None,none,Tensile Ductility,EXP,None,298.0,20.0,None,%,T2,10.1016/j.matpr.2020.12.462
+89,W40Ni24Fe24Co12,BCC+FCC+𝜇,None,none,Tensile Ductility,EXP,None,298.0,18.0,None,%,T2,10.1016/j.matpr.2020.12.462
+90,W45Ni22Fe22Co11,BCC+FCC+𝜇,None,none,Tensile Ductility,EXP,None,298.0,18.0,None,%,T2,10.1016/j.matpr.2020.12.462
+91,W50Ni20Fe20Co10,BCC+FCC+𝜇,None,none,Tensile Ductility,EXP,None,298.0,18.0,None,%,T2,10.1016/j.matpr.2020.12.462
+92,CoCrFeMnNi,FCC,None,Laser 3D print,Tensile Ductility,EXP,None,298.0,57.0,None,%,T2,10.1016/j.jallcom.2021.159521
+93,CrMnFeCoNi,FCC,None,LMD,Tensile Ductility,EXP,None,298.0,55.0,None,%,T2,10.1016/j.jallcom.2021.159521
+94,Al0.2CoCrFeNi,FCC,None,LMD,Tensile Ductility,EXP,None,298.0,45.0,None,%,T2,10.1016/j.jallcom.2021.159521
+95,Al0.7CoCrFeNi,FCC+BCC,None,LMD,Tensile Ductility,EXP,None,298.0,11.0,None,%,T2,10.1016/j.jallcom.2021.159521
+96,Al0.25FeMnNiCrCu0.5,FCC+BCC,None,LMD,Tensile Ductility,EXP,None,298.0,24.5,None,%,T2,10.1016/j.jallcom.2021.159521
+97,AlCrCuFeNi3,FCC+BCC,None,SLM,Tensile Ductility,EXP,None,298.0,14.3,None,%,T2,10.1016/j.jallcom.2021.159521
+98,AlCoCrFeNi3,FCC+BCC,AC,none,Tensile Ductility,EXP,None,298.0,14.0,None,%,T2,10.1016/j.jallcom.2021.159521
+99,AlCo2CrFeNi2,FCC+BCC,AC,none,Tensile Ductility,EXP,None,298.0,14.8,None,%,T2,10.1016/j.jallcom.2021.159521
+100,Fe20Co20Ni41Al19,FCC+BCC,AC,none,Tensile Ductility,EXP,None,298.0,18.7,None,%,T2,10.1016/j.jallcom.2021.159521
+101,Li,BCC,None,none,Tensile Ductility,EXP,None,293.0,60.0,None,%,P415,10.1007/978-1-4684-6066-7
+102,Be,HCP,HIP,none,Tensile Ductility,EXP,None,293.0,15.0,None,%,P415,10.1007/978-1-4684-6066-7
+103,Be,HCP,HIP,In vacuum,Tensile Ductility,EXP,None,293.0,2.3,None,%,P415,10.1007/978-1-4684-6066-7
+104,Be,HCP,AC,none,Tensile Ductility,EXP,None,293.0,8.4,None,%,P415,10.1007/978-1-4684-6066-7
+105,Be,HCP,A,none,Tensile Ductility,EXP,None,613.0,3.55,None,%,P415,10.1007/978-1-4684-6066-7
+106,Be,HCP,None,none,Tensile Ductility,EXP,None,923.0,5.5,None,%,P415,10.1007/978-1-4684-6066-7
+107,Be,HCP,None,none,Tensile Ductility,EXP,None,1003.0,8.2,None,%,P415,10.1007/978-1-4684-6066-7
+108,Be,HCP,None,none,Tensile Ductility,EXP,None,1088.0,14.95,None,%,P415,10.1007/978-1-4684-6066-7
+109,Mg,HCP,None,none,Tensile Ductility,EXP,None,293.0,16.0,None,%,P415,10.1007/978-1-4684-6066-7
+110,Al,FCC,A,none,Tensile Ductility,EXP,None,293.0,50.0,None,%,P415,10.1007/978-1-4684-6066-7
+111,Al,FCC,CH,none,Tensile Ductility,EXP,None,293.0,5.0,None,%,P415,10.1007/978-1-4684-6066-7
+112,Al,FCC,None,none,Tensile Ductility,EXP,None,473.0,12.0,None,%,P415,10.1007/978-1-4684-6066-7
+113,Al,FCC,None,none,Tensile Ductility,EXP,None,673.0,62.0,None,%,P415,10.1007/978-1-4684-6066-7
+114,Al,FCC,None,none,Tensile Ductility,EXP,None,773.0,58.0,None,%,P415,10.1007/978-1-4684-6066-7
+115,Ca,FCC,None,none,Tensile Ductility,EXP,None,293.0,56.5,None,%,P415,10.1007/978-1-4684-6066-7
+116,Ca,FCC,None,Sublimed,Tensile Ductility,EXP,None,293.0,6.0,None,%,P415,10.1007/978-1-4684-6066-7
+117,Ca,FCC,None,none,Tensile Ductility,EXP,None,373.0,9.0,None,%,P415,10.1007/978-1-4684-6066-7
+118,Ca,FCC,None,none,Tensile Ductility,EXP,None,573.0,25.0,None,%,P415,10.1007/978-1-4684-6066-7
+119,Ca,FCC,None,none,Tensile Ductility,EXP,None,623.0,18.0,None,%,P415,10.1007/978-1-4684-6066-7
+120,Ca,FCC,None,none,Tensile Ductility,EXP,None,723.0,10.0,None,%,P415,10.1007/978-1-4684-6066-7
+121,Ca,FCC,None,none,Tensile Ductility,EXP,None,773.0,37.0,None,%,P415,10.1007/978-1-4684-6066-7
+122,Ca,FCC,None,none,Tensile Ductility,EXP,None,973.0,47.0,None,%,P415,10.1007/978-1-4684-6066-7
+123,Sc,HCP,None,none,Tensile Ductility,EXP,None,293.0,12.7,None,%,P415,10.1007/978-1-4684-6066-7
+124,Ti,HCP,A,none,Tensile Ductility,EXP,None,293.0,50.0,None,%,P415,10.1007/978-1-4684-6066-7
+125,Ti,HCP,None,none,Tensile Ductility,EXP,None,473.0,38.3,None,%,P415,10.1007/978-1-4684-6066-7
+126,Ti,HCP,None,none,Tensile Ductility,EXP,None,673.0,26.7,None,%,P415,10.1007/978-1-4684-6066-7
+127,Ti,HCP,None,none,Tensile Ductility,EXP,None,873.0,35.0,None,%,P415,10.1007/978-1-4684-6066-7
+128,Ti,HCP,None,none,Tensile Ductility,EXP,None,1073.0,61.6,None,%,P416,10.1007/978-1-4684-6066-7
+129,Ti,HCP,A,none,Tensile Ductility,EXP,None,1273.0,73.0,None,%,P416,10.1007/978-1-4684-6066-7
+130,Ti,HCP,HIP,none,Tensile Ductility,EXP,None,217.0,14.0,None,%,P416,10.1007/978-1-4684-6066-7
+131,Ti,HCP,None,none,Tensile Ductility,EXP,None,293.0,18.0,None,%,P416,10.1007/978-1-4684-6066-7
+132,Ti,HCP,None,none,Tensile Ductility,EXP,None,477.0,21.0,None,%,P416,10.1007/978-1-4684-6066-7
+133,Ti,HCP,None,none,Tensile Ductility,EXP,None,699.0,15.0,None,%,P416,10.1007/978-1-4684-6066-7
+134,Ti,HCP,None,none,Tensile Ductility,EXP,None,810.0,23.0,None,%,P416,10.1007/978-1-4684-6066-7
+135,V,BCC,A,none,Tensile Ductility,EXP,None,78.0,3.4,None,%,P416,10.1007/978-1-4684-6066-7
+136,V,BCC,A,none,Tensile Ductility,EXP,None,175.0,12.6,None,%,P416,10.1007/978-1-4684-6066-7
+137,V,BCC,A,none,Tensile Ductility,EXP,None,175.0,5.1,None,%,P416,10.1007/978-1-4684-6066-7
+138,V,BCC,A,none,Tensile Ductility,EXP,None,300.0,14.2,None,%,P416,10.1007/978-1-4684-6066-7
+139,V,BCC,A,none,Tensile Ductility,EXP,None,300.0,11.2,None,%,P416,10.1007/978-1-4684-6066-7
+140,V,BCC,A,none,Tensile Ductility,EXP,None,700.0,12.6,None,%,P416,10.1007/978-1-4684-6066-7
+141,V,BCC,A,none,Tensile Ductility,EXP,None,700.0,9.7,None,%,P416,10.1007/978-1-4684-6066-7
+142,V,BCC,A,none,Tensile Ductility,EXP,None,1100.0,17.9,None,%,P416,10.1007/978-1-4684-6066-7
+143,V,BCC,A,none,Tensile Ductility,EXP,None,1100.0,13.3,None,%,P416,10.1007/978-1-4684-6066-7
+144,V,BCC,A,none,Tensile Ductility,EXP,None,1500.0,48.1,None,%,P416,10.1007/978-1-4684-6066-7
+145,V,BCC,A,none,Tensile Ductility,EXP,None,1500.0,27.6,None,%,P416,10.1007/978-1-4684-6066-7
+146,Fe,BCC,None,Armco,Tensile Ductility,EXP,None,293.0,19.0,None,%,P416,10.1007/978-1-4684-6066-7
+147,Fe,BCC,None,none,Tensile Ductility,EXP,None,373.0,23.0,None,%,P416,10.1007/978-1-4684-6066-7
+148,Fe,BCC,None,none,Tensile Ductility,EXP,None,573.0,40.0,None,%,P416,10.1007/978-1-4684-6066-7
+149,Fe,BCC,None,none,Tensile Ductility,EXP,None,673.0,33.0,None,%,P416,10.1007/978-1-4684-6066-7
+150,Fe,BCC,None,none,Tensile Ductility,EXP,None,773.0,36.0,None,%,P416,10.1007/978-1-4684-6066-7
+151,Fe,BCC,None,none,Tensile Ductility,EXP,None,1073.0,27.0,None,%,P416,10.1007/978-1-4684-6066-7
+152,Fe,BCC,None,none,Tensile Ductility,EXP,None,1173.0,75.0,None,%,P416,10.1007/978-1-4684-6066-7
+153,Fe,BCC,None,none,Tensile Ductility,EXP,None,1375.0,65.0,None,%,P416,10.1007/978-1-4684-6066-7
+154,Co,HCP,AC,none,Tensile Ductility,EXP,None,293.0,2.5,None,%,P416,10.1007/978-1-4684-6066-7
+155,Co,HCP,None,none,Tensile Ductility,EXP,None,573.0,2.5,None,%,P416,10.1007/978-1-4684-6066-7
+156,Co,HCP,None,none,Tensile Ductility,EXP,None,673.0,4.6,None,%,P416,10.1007/978-1-4684-6066-7
+157,Co,HCP,None,none,Tensile Ductility,EXP,None,773.0,3.4,None,%,P416,10.1007/978-1-4684-6066-7
+158,Co,HCP,None,none,Tensile Ductility,EXP,None,873.0,4.0,None,%,P416,10.1007/978-1-4684-6066-7
+159,Co,HCP,None,none,Tensile Ductility,EXP,None,973.0,2.7,None,%,P416,10.1007/978-1-4684-6066-7
+160,Co,HCP,None,none,Tensile Ductility,EXP,None,1073.0,5.3,None,%,P416,10.1007/978-1-4684-6066-7
+161,Ni,FCC,None,none,Tensile Ductility,EXP,None,293.0,30.0,None,%,P416,10.1007/978-1-4684-6066-7
+162,Cu,FCC,None,none,Tensile Ductility,EXP,None,293.0,49.0,None,%,P416,10.1007/978-1-4684-6066-7
+163,Cu,FCC,None,none,Tensile Ductility,EXP,None,573.0,46.0,None,%,P416,10.1007/978-1-4684-6066-7
+164,Cu,FCC,None,none,Tensile Ductility,EXP,None,673.0,42.0,None,%,P416,10.1007/978-1-4684-6066-7
+165,Cu,FCC,None,none,Tensile Ductility,EXP,None,873.0,34.0,None,%,P416,10.1007/978-1-4684-6066-7
+166,Cu,FCC,None,none,Tensile Ductility,EXP,None,973.0,32.0,None,%,P416,10.1007/978-1-4684-6066-7
+167,Zn,HCP,None,none,Tensile Ductility,EXP,None,1073.0,25.0,None,%,P416,10.1007/978-1-4684-6066-7
+168,Ga,None,None,none,Tensile Ductility,EXP,None,293.0,21.0,None,%,P416,10.1007/978-1-4684-6066-7
+169,Ga,None,None,none,Tensile Ductility,EXP,None,293.0,21.0,None,%,P416,10.1007/978-1-4684-6066-7
+170,Sr,FCC,AC,none,Tensile Ductility,EXP,None,293.0,2.0,None,%,P416,10.1007/978-1-4684-6066-7
+171,Sr,FCC,None,none,Tensile Ductility,EXP,None,473.0,8.0,None,%,P416,10.1007/978-1-4684-6066-7
+172,Sr,FCC,None,none,Tensile Ductility,EXP,None,573.0,10.0,None,%,P416,10.1007/978-1-4684-6066-7
+173,Sr,FCC,None,none,Tensile Ductility,EXP,None,673.0,18.0,None,%,P416,10.1007/978-1-4684-6066-7
+174,Sr,FCC,None,none,Tensile Ductility,EXP,None,723.0,20.0,None,%,P416,10.1007/978-1-4684-6066-7
+175,Sr,FCC,None,none,Tensile Ductility,EXP,None,823.0,8.0,None,%,P416,10.1007/978-1-4684-6066-7
+176,Sr,FCC,None,none,Tensile Ductility,EXP,None,873.0,32.0,None,%,P416,10.1007/978-1-4684-6066-7
+177,Sr,FCC,None,none,Tensile Ductility,EXP,None,973.0,42.0,None,%,P416,10.1007/978-1-4684-6066-7
+178,Y,HCP,AC,none,Tensile Ductility,EXP,None,293.0,10.0,None,%,P416,10.1007/978-1-4684-6066-7
+179,Y,HCP,AC,none,Tensile Ductility,EXP,None,873.0,16.0,None,%,P416,10.1007/978-1-4684-6066-7
+180,Y,HCP,AC,none,Tensile Ductility,EXP,None,1273.0,27.0,None,%,P416,10.1007/978-1-4684-6066-7
+181,Zr,HCP,A,none,Tensile Ductility,EXP,None,293.0,15.0,None,%,P416,10.1007/978-1-4684-6066-7
+182,Zr,HCP,None,none,Tensile Ductility,EXP,None,1173.0,40.0,None,%,P416,10.1007/978-1-4684-6066-7
+183,Zr,HCP,E,Iodide,Tensile Ductility,EXP,None,293.0,23.7,None,%,P416,10.1007/978-1-4684-6066-7
+184,Zr,HCP,None,none,Tensile Ductility,EXP,None,523.0,32.7,None,%,P416,10.1007/978-1-4684-6066-7
+185,Zr,HCP,None,none,Tensile Ductility,EXP,None,773.0,39.7,None,%,P417,10.1007/978-1-4684-6066-7
+186,Zr,HCP,None,none,Tensile Ductility,EXP,None,1023.0,99.6,None,%,P417,10.1007/978-1-4684-6066-7
+187,Nb,BCC,A,none,Tensile Ductility,EXP,None,293.0,49.0,None,%,P417,10.1007/978-1-4684-6066-7
+188,Nb,BCC,A,none,Tensile Ductility,EXP,None,473.0,48.0,None,%,P417,10.1007/978-1-4684-6066-7
+189,Nb,BCC,A,none,Tensile Ductility,EXP,None,673.0,28.0,None,%,P417,10.1007/978-1-4684-6066-7
+190,Nb,BCC,A,none,Tensile Ductility,EXP,None,773.0,35.0,None,%,P417,10.1007/978-1-4684-6066-7
+191,Nb,BCC,A,none,Tensile Ductility,EXP,None,823.0,24.0,None,%,P417,10.1007/978-1-4684-6066-7
+192,Mo,BCC,A,fused+Hot-rolled,Tensile Ductility,EXP,None,299.0,46.0,None,%,P417,10.1007/978-1-4684-6066-7
+193,Mo,BCC,A,fused+Hot-rolled,Tensile Ductility,EXP,None,1143.0,46.0,None,%,P417,10.1007/978-1-4684-6066-7
+194,Mo,BCC,A,fused+Hot-rolled,Tensile Ductility,EXP,None,1253.0,49.0,None,%,P417,10.1007/978-1-4684-6066-7
+195,Mo,BCC,A,fused+Hot-rolled,Tensile Ductility,EXP,None,1338.0,35.0,None,%,P417,10.1007/978-1-4684-6066-7
+196,Ru,HCP,None,none,Tensile Ductility,EXP,None,293.0,40.0,None,%,P417,10.1007/978-1-4684-6066-7
+197,Ag,FCC,None,none,Tensile Ductility,EXP,None,293.0,60.0,None,%,P417,10.1007/978-1-4684-6066-7
+198,Cd,None,None,none,Tensile Ductility,EXP,None,293.0,50.0,None,%,P417,10.1007/978-1-4684-6066-7
+199,In,None,None,Wire,Tensile Ductility,EXP,None,293.0,40.0,None,%,P417,10.1007/978-1-4684-6066-7
+200,Sn,None,None,none,Tensile Ductility,EXP,None,293.0,37.0,None,%,P418,10.1007/978-1-4684-6066-7
+201,Ba,BCC,None,none,Tensile Ductility,EXP,None,293.0,23.0,None,%,P418,10.1007/978-1-4684-6066-7
+202,La,None,None,none,Tensile Ductility,EXP,None,293.0,8.0,None,%,P418,10.1007/978-1-4684-6066-7
+203,La,None,None,none,Tensile Ductility,EXP,None,478.0,9.4,None,%,P418,10.1007/978-1-4684-6066-7
+204,La,None,None,none,Tensile Ductility,EXP,None,698.0,21.0,None,%,P418,10.1007/978-1-4684-6066-7
+205,La,None,F,none,Tensile Ductility,EXP,None,293.0,4.0,None,%,P418,10.1007/978-1-4684-6066-7
+206,La,None,None,none,Tensile Ductility,EXP,None,478.0,8.6,None,%,P418,10.1007/978-1-4684-6066-7
+207,La,None,None,none,Tensile Ductility,EXP,None,698.0,27.0,None,%,P418,10.1007/978-1-4684-6066-7
+208,Ce,FCC,AC,none,Tensile Ductility,EXP,None,293.0,24.0,None,%,P418,10.1007/978-1-4684-6066-7
+209,Ce,FCC,F,none,Tensile Ductility,EXP,None,478.0,21.4,None,%,P418,10.1007/978-1-4684-6066-7
+210,Ce,FCC,None,none,Tensile Ductility,EXP,None,293.0,17.0,None,%,P418,10.1007/978-1-4684-6066-7
+211,Ce,FCC,None,none,Tensile Ductility,EXP,None,478.0,9.5,None,%,P418,10.1007/978-1-4684-6066-7
+212,Ce,FCC,None,none,Tensile Ductility,EXP,None,698.0,8.0,None,%,P418,10.1007/978-1-4684-6066-7
+213,Pr,DHCP,AC,none,Tensile Ductility,EXP,None,293.0,10.0,None,%,P418,10.1007/978-1-4684-6066-7
+214,Pr,DHCP,None,none,Tensile Ductility,EXP,None,678.0,15.8,None,%,P418,10.1007/978-1-4684-6066-7
+215,Pr,DHCP,None,none,Tensile Ductility,EXP,None,698.0,29.0,None,%,P418,10.1007/978-1-4684-6066-7
+216,Pr,DHCP,F,none,Tensile Ductility,EXP,None,293.0,7.0,None,%,P418,10.1007/978-1-4684-6066-7
+217,Pr,DHCP,None,none,Tensile Ductility,EXP,None,678.0,11.7,None,%,P418,10.1007/978-1-4684-6066-7
+218,Pr,DHCP,None,none,Tensile Ductility,EXP,None,698.0,47.5,None,%,P418,10.1007/978-1-4684-6066-7
+219,Nd,DHCP,AC,none,Tensile Ductility,EXP,None,293.0,11.0,None,%,P418,10.1007/978-1-4684-6066-7
+220,Nd,DHCP,None,none,Tensile Ductility,EXP,None,698.0,13.0,None,%,P418,10.1007/978-1-4684-6066-7
+221,Nd,DHCP,F,none,Tensile Ductility,EXP,None,293.0,2.0,None,%,P418,10.1007/978-1-4684-6066-7
+222,Nd,DHCP,None,none,Tensile Ductility,EXP,None,478.0,10.3,None,%,P418,10.1007/978-1-4684-6066-7
+223,Nd,DHCP,None,none,Tensile Ductility,EXP,None,698.0,8.0,None,%,P418,10.1007/978-1-4684-6066-7
+224,Sm,None,AC,none,Tensile Ductility,EXP,None,293.0,3.0,None,%,P418,10.1007/978-1-4684-6066-7
+225,Sm,None,None,none,Tensile Ductility,EXP,None,478.0,10.7,None,%,P418,10.1007/978-1-4684-6066-7
+226,Sm,None,F,none,Tensile Ductility,EXP,None,698.0,5.6,None,%,P418,10.1007/978-1-4684-6066-7
+227,Sm,None,None,none,Tensile Ductility,EXP,None,478.0,14.5,None,%,P418,10.1007/978-1-4684-6066-7
+228,Sm,None,None,none,Tensile Ductility,EXP,None,698.0,12.5,None,%,P419,10.1007/978-1-4684-6066-7
+229,Gd,HCP,AC,none,Tensile Ductility,EXP,None,293.0,8.0,None,%,P419,10.1007/978-1-4684-6066-7
+230,Gd,HCP,None,none,Tensile Ductility,EXP,None,478.0,6.8,None,%,P419,10.1007/978-1-4684-6066-7
+231,Gd,HCP,None,none,Tensile Ductility,EXP,None,698.0,11.3,None,%,P419,10.1007/978-1-4684-6066-7
+232,Gd,HCP,F,none,Tensile Ductility,EXP,None,293.0,7.0,None,%,P419,10.1007/978-1-4684-6066-7
+233,Gd,HCP,None,none,Tensile Ductility,EXP,None,478.0,4.2,None,%,P419,10.1007/978-1-4684-6066-7
+234,Gd,HCP,None,none,Tensile Ductility,EXP,None,698.0,12.0,None,%,P419,10.1007/978-1-4684-6066-7
+235,Dy,HCP,AC,none,Tensile Ductility,EXP,None,293.0,6.0,None,%,P419,10.1007/978-1-4684-6066-7
+236,Dy,HCP,None,none,Tensile Ductility,EXP,None,478.0,8.3,None,%,P419,10.1007/978-1-4684-6066-7
+237,Dy,HCP,F,none,Tensile Ductility,EXP,None,293.0,3.0,None,%,P419,10.1007/978-1-4684-6066-7
+238,Dy,HCP,None,none,Tensile Ductility,EXP,None,478.0,12.0,None,%,P419,10.1007/978-1-4684-6066-7
+239,Dy,HCP,None,none,Tensile Ductility,EXP,None,698.0,4.2,None,%,P419,10.1007/978-1-4684-6066-7
+240,Ho,HCP,AC,none,Tensile Ductility,EXP,None,293.0,5.0,None,%,P419,10.1007/978-1-4684-6066-7
+241,Ho,HCP,None,none,Tensile Ductility,EXP,None,478.0,6.0,None,%,P419,10.1007/978-1-4684-6066-7
+242,Er,HCP,None,none,Tensile Ductility,EXP,None,293.0,4.0,None,%,P419,10.1007/978-1-4684-6066-7
+243,Er,HCP,None,none,Tensile Ductility,EXP,None,478.0,5.5,None,%,P419,10.1007/978-1-4684-6066-7
+244,Er,HCP,None,none,Tensile Ductility,EXP,None,698.0,6.8,None,%,P419,10.1007/978-1-4684-6066-7
+245,Er,HCP,F,none,Tensile Ductility,EXP,None,293.0,7.0,None,%,P419,10.1007/978-1-4684-6066-7
+246,Er,HCP,None,none,Tensile Ductility,EXP,None,478.0,4.6,None,%,P419,10.1007/978-1-4684-6066-7
+247,Er,HCP,None,none,Tensile Ductility,EXP,None,698.0,4.6,None,%,P419,10.1007/978-1-4684-6066-7
+248,Yb,FCC,AC,none,Tensile Ductility,EXP,None,293.0,6.0,None,%,P419,10.1007/978-1-4684-6066-7
+249,Yb,FCC,None,none,Tensile Ductility,EXP,None,478.0,10.8,None,%,P419,10.1007/978-1-4684-6066-7
+250,Hf,HCP,A,none,Tensile Ductility,EXP,None,297.0,35.0,None,%,P419,10.1007/978-1-4684-6066-7
+251,Hf,HCP,A,none,Tensile Ductility,EXP,None,533.0,51.0,None,%,P419,10.1007/978-1-4684-6066-7
+252,Hf,HCP,A,none,Tensile Ductility,EXP,None,755.0,63.0,None,%,P419,10.1007/978-1-4684-6066-7
+253,Hf,HCP,A,none,Tensile Ductility,EXP,None,866.0,56.0,None,%,P419,10.1007/978-1-4684-6066-7
+254,Ta,BCC,A,Annealed in vacuum 1 hour,Tensile Ductility,EXP,None,254.0,12.4,None,%,P419,10.1007/978-1-4684-6066-7
+255,Ta,BCC,A,Annealed in vacuum 1 hour,Tensile Ductility,EXP,None,195.0,37.0,None,%,P419,10.1007/978-1-4684-6066-7
+256,Ta,BCC,A,Annealed in vacuum 1 hour,Tensile Ductility,EXP,None,298.0,45.0,None,%,P419,10.1007/978-1-4684-6066-7
+257,Ta,BCC,A,Annealed in vacuum 1 hour,Tensile Ductility,EXP,None,300.0,31.0,None,%,P419,10.1007/978-1-4684-6066-7
+258,Ta,BCC,A,Annealed in vacuum 1 hour,Tensile Ductility,EXP,None,673.0,27.0,None,%,P419,10.1007/978-1-4684-6066-7
+259,W,BCC,None,Wire,Tensile Ductility,EXP,None,293.0,2.5,None,%,P420,10.1007/978-1-4684-6066-7
+260,W,BCC,None,Wire,Tensile Ductility,EXP,None,293.0,20.0,None,%,P420,10.1007/978-1-4684-6066-7
+261,Re,HCP,A,none,Tensile Ductility,EXP,None,293.0,25.0,None,%,P420,10.1007/978-1-4684-6066-7
+262,Re,HCP,None,Strained,Tensile Ductility,EXP,None,293.0,1.5,None,%,P420,10.1007/978-1-4684-6066-7
+263,Os,HCP,None,none,Tensile Ductility,EXP,None,293.0,0.0,None,%,P420,10.1007/978-1-4684-6066-7
+264,Pt,FCC,None,none,Tensile Ductility,EXP,None,293.0,40.0,None,%,P420,10.1007/978-1-4684-6066-7
+265,Au,FCC,None,none,Tensile Ductility,EXP,None,293.0,50.0,None,%,P420,10.1007/978-1-4684-6066-7
+266,Pb,FCC,None,none,Tensile Ductility,EXP,None,293.0,64.0,None,%,P420,10.1007/978-1-4684-6066-7
+267,Th,FCC,A,Hot-rolled,Tensile Ductility,EXP,None,293.0,40.0,None,%,P420,10.1007/978-1-4684-6066-7
+268,Th,FCC,A,Hot-rolled,Tensile Ductility,EXP,None,477.0,35.0,None,%,P420,10.1007/978-1-4684-6066-7
+269,Th,FCC,A,Hot-rolled,Tensile Ductility,EXP,None,573.0,40.0,None,%,P420,10.1007/978-1-4684-6066-7
+270,Th,FCC,None,none,Tensile Ductility,EXP,None,763.0,53.0,None,%,P420,10.1007/978-1-4684-6066-7
+271,U,None,None,none,Tensile Ductility,EXP,None,293.0,8.0,None,%,P421,10.1007/978-1-4684-6066-7
+272,U,None,None,none,Tensile Ductility,EXP,None,473.0,24.0,None,%,P421,10.1007/978-1-4684-6066-7
+273,U,None,None,none,Tensile Ductility,EXP,None,673.0,25.0,None,%,P421,10.1007/978-1-4684-6066-7
+274,U,None,None,none,Tensile Ductility,EXP,None,873.0,25.0,None,%,P421,10.1007/978-1-4684-6066-7
+275,Pu,None,None,none,Tensile Ductility,EXP,None,243.0,0.018,None,%,P421,10.1007/978-1-4684-6066-7
+276,Pu,None,None,none,Tensile Ductility,EXP,None,303.0,0.068,None,%,P421,10.1007/978-1-4684-6066-7
+277,Pu,None,None,none,Tensile Ductility,EXP,None,373.0,1.0,None,%,P421,10.1007/978-1-4684-6066-7
+278,Pu,None,None,none,Tensile Ductility,EXP,None,403.0,294.4,None,%,P421,10.1007/978-1-4684-6066-7
+279,Pu,None,None,none,Tensile Ductility,EXP,None,463.0,325.9,None,%,P421,10.1007/978-1-4684-6066-7
+280,Pu,None,None,none,Tensile Ductility,EXP,None,503.0,50.0,None,%,P421,10.1007/978-1-4684-6066-7
+281,Pu,None,None,none,Tensile Ductility,EXP,None,573.0,50.1,None,%,P421,10.1007/978-1-4684-6066-7
+282,Pu,None,None,none,Tensile Ductility,EXP,None,598.0,67.3,None,%,P421,10.1007/978-1-4684-6066-7
+283,NbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,2.1,None,%,TC1,10.1016/j.actamat.2021.116800
+284,VNbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,1.7,None,%,TC1,10.1016/j.actamat.2021.116800
+285,VNbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,8.8,None,%,TC1,10.1016/j.actamat.2021.116800
+286,TiZrHfNbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,10.12,None,%,TC1,10.1016/j.actamat.2021.116800
+287,TiZrHfNb0.5Mo,BCC,None,none,Compressive Ductility,EXP,None,298.0,13.02,None,%,TC1,10.1016/j.actamat.2021.116800
+288,TiZrHfNb1.5Mo,BCC,None,none,Compressive Ductility,EXP,None,298.0,23.97,None,%,TC1,10.1016/j.actamat.2021.116800
+289,Ti0.5ZrHfNbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,12.08,None,%,TC1,10.1016/j.actamat.2021.116800
+290,Ti1.5ZrHfNbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,28.98,None,%,TC1,10.1016/j.actamat.2021.116800
+291,TiZr0.5HfNbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,18.02,None,%,TC1,10.1016/j.actamat.2021.116800
+292,TiZr1.5HfNbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,16.09,None,%,TC1,10.1016/j.actamat.2021.116800
+293,TiZrHf0.5NbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,12.09,None,%,TC1,10.1016/j.actamat.2021.116800
+294,TiZrHf1.5NbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,16.83,None,%,TC1,10.1016/j.actamat.2021.116800
+295,TiZrHf0.5NbMo0.5,BCC,None,none,Compressive Ductility,EXP,None,298.0,24.61,None,%,TC1,10.1016/j.actamat.2021.116800
+296,TiZrHfNbMo1.5,BCC,None,none,Compressive Ductility,EXP,None,298.0,10.83,None,%,TC1,10.1016/j.actamat.2021.116800
+297,TiZrHfNbTa,BCC,None,Ductility lowest limit,Compressive Ductility,EXP,None,298.0,50.0,None,%,TC1,10.1016/j.actamat.2021.116800
+298,TiZrHfNbTa,BCC,None,Ductility lowest limit,Compressive Ductility,EXP,None,298.0,50.0,None,%,TC1,10.1016/j.actamat.2021.116800
+299,TiZrHfNbTaMo0.25,BCC,None,Ductility lowest limit,Compressive Ductility,EXP,None,298.0,50.0,None,%,TC1,10.1016/j.actamat.2021.116800
+300,TiZrHfNbTaMo0.5,BCC,None,Ductility lowest limit,Compressive Ductility,EXP,None,298.0,50.0,None,%,TC1,10.1016/j.actamat.2021.116800
+301,TiZrHfNbTaMo0.75,BCC,None,Ductility lowest limit,Compressive Ductility,EXP,None,298.0,50.0,None,%,TC1,10.1016/j.actamat.2021.116800
+302,TiZrHfNbTaMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,12.0,None,%,TC1,10.1016/j.actamat.2021.116800
+303,TiZrNbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,33.0,None,%,TC1,10.1016/j.actamat.2021.116800
+304,TiZrV0.25NbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,30.0,None,%,TC1,10.1016/j.actamat.2021.116800
+305,TiZrV0.5NbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,28.0,None,%,TC1,10.1016/j.actamat.2021.116800
+306,TiZrV0.75NbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,29.0,None,%,TC1,10.1016/j.actamat.2021.116800
+307,TiZrVNbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,26.0,None,%,TC1,10.1016/j.actamat.2021.116800
+308,TiZrV1.5NbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,20.0,None,%,TC1,10.1016/j.actamat.2021.116800
+309,TiZrV2NbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,23.0,None,%,TC1,10.1016/j.actamat.2021.116800
+310,TiZrV3NbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,24.0,None,%,TC1,10.1016/j.actamat.2021.116800
+311,TiVNbTa,BCC,None,Ductility lowest limit,Compressive Ductility,EXP,None,298.0,50.0,None,%,TC1,10.1016/j.actamat.2021.116800
+312,TiVNbTaW,BCC,None,none,Compressive Ductility,EXP,None,298.0,20.0,None,%,TC1,10.1016/j.actamat.2021.116800
+313,NbTaVW,BCC,None,none,Compressive Ductility,EXP,None,298.0,12.0,None,%,TC1,10.1016/j.actamat.2021.116800
+314,TiZrVNb,BCC,None,Ductility lowest limit,Compressive Ductility,EXP,None,298.0,50.0,None,%,TC1,10.1016/j.actamat.2021.116800
+315,TiZrV2Nb,BCC,None,Ductility lowest limit,Compressive Ductility,EXP,None,298.0,50.0,None,%,TC1,10.1016/j.actamat.2021.116800
+316,TiVNbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,25.62,None,%,TC1,10.1016/j.actamat.2021.116800
+317,TiZrHfVNb,BCC,None,none,Compressive Ductility,EXP,None,298.0,29.6,None,%,TC1,10.1016/j.actamat.2021.116800
+318,TiZrHfNbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,10.2,None,%,TC1,10.1016/j.actamat.2021.116800
+319,TiVNbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,10.6,None,%,TC1,10.1016/j.actamat.2021.116800
+320,TiNbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,14.1,None,%,TC1,10.1016/j.actamat.2021.116800
+321,NbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,2.6,None,%,TC1,10.1016/j.actamat.2021.116800
+322,VNbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,1.7,None,%,TC1,10.1016/j.actamat.2021.116800
+323,TiZrVNb,BCC,None,Ductility lowest limit,Compressive Ductility,EXP,None,298.0,50.0,None,%,TC1,10.1016/j.actamat.2021.116800
+324,TiZrV0.3Nb,BCC,None,none,Compressive Ductility,EXP,None,298.0,45.0,None,%,TC1,10.1016/j.actamat.2021.116800
+325,TiZrVNbMo0.3,BCC,None,none,Compressive Ductility,EXP,None,298.0,42.0,None,%,TC1,10.1016/j.actamat.2021.116800
+326,TiZrVNbMo0.5,BCC,None,none,Compressive Ductility,EXP,None,298.0,32.0,None,%,TC1,10.1016/j.actamat.2021.116800
+327,TiZrVNbMo0.7,BCC,None,none,Compressive Ductility,EXP,None,298.0,32.0,None,%,TC1,10.1016/j.actamat.2021.116800
+328,TiZrVNbMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,32.0,None,%,TC1,10.1016/j.actamat.2021.116800
+329,TiZrVNbMo1.3,BCC,None,none,Compressive Ductility,EXP,None,298.0,30.0,None,%,TC1,10.1016/j.actamat.2021.116800
+330,TiZrV0.3NbMo0.1,BCC,None,none,Compressive Ductility,EXP,None,298.0,45.0,None,%,TC1,10.1016/j.actamat.2021.116800
+331,TiZrV0.3NbMo0.3,BCC,None,Ductility lowest limit,Compressive Ductility,EXP,None,298.0,50.0,None,%,TC1,10.1016/j.actamat.2021.116800
+332,TiZrV0.3NbMo0.5,BCC,None,none,Compressive Ductility,EXP,None,298.0,43.0,None,%,TC1,10.1016/j.actamat.2021.116800
+333,TiZrV0.3NbMo0.7,BCC,None,none,Compressive Ductility,EXP,None,298.0,26.6,None,%,TC1,10.1016/j.actamat.2021.116800
+334,TiZrV0.3NbMo1.0,BCC,None,none,Compressive Ductility,EXP,None,298.0,25.0,None,%,TC1,10.1016/j.actamat.2021.116800
+335,TiZrV0.3NbMo1.3,BCC,None,none,Compressive Ductility,EXP,None,298.0,20.0,None,%,TC1,10.1016/j.actamat.2021.116800
+336,TiZrV0.3NbMo1.5,BCC,None,none,Compressive Ductility,EXP,None,298.0,8.0,None,%,TC1,10.1016/j.actamat.2021.116800
+337,TiZrHf0.5NbMo0.5,BCC,None,none,Compressive Ductility,EXP,None,298.0,24.61,None,%,TC1,10.1016/j.actamat.2021.116800
+338,ZrHfNbTa,BCC,None,none,Compressive Ductility,EXP,None,298.0,34.0,None,%,TC1,10.1016/j.actamat.2021.116800
+339,NbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,1.9,None,%,TC1,10.1016/j.actamat.2021.116800
+340,Ti0.25NbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,2.5,None,%,TC1,10.1016/j.actamat.2021.116800
+341,Ti0.5NbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,5.9,None,%,TC1,10.1016/j.actamat.2021.116800
+342,Ti0.75NbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,8.4,None,%,TC1,10.1016/j.actamat.2021.116800
+343,TiNbTaMoW,BCC,None,none,Compressive Ductility,EXP,None,298.0,11.5,None,%,TC1,10.1016/j.actamat.2021.116800
+344,TiVNbTaMo,BCC,None,none,Compressive Ductility,EXP,None,298.0,30.0,None,%,TC1,10.1016/j.actamat.2021.116800
+345,Ti38Hf24V15Nb23,BCC,None,none,Tensile Ductility,EXP,None,298.0,20.6,None,%,TC1,10.1016/j.actamat.2021.116800
+346,TiZrHfNbTa,BCC,None,none,Tensile Ductility,EXP,None,298.0,9.7,None,%,TC1,10.1016/j.actamat.2021.116800
+347,TiZrHfNb,BCC,None,none,Tensile Ductility,EXP,None,298.0,14.9,None,%,TC1,10.1016/j.actamat.2021.116800
+348,Ti1.5ZrHf0.5Nb0.5Ta0.5,BCC,None,none,Tensile Ductility,EXP,None,298.0,18.8,None,%,TC1,10.1016/j.actamat.2021.116800
+349,Ti1.5ZrNbAl0.3,BCC,AC+A+WQ,none,Tensile Ductility,EXP,None,298.0,23.0,None,%,F3(a),10.1016/j.matlet.2021.129428
+350,TiZrHfNbTaMo0.25,BCC,AC,strain rate 2100s^-1,Compressive Ductility,EXP,None,298.0,28.0,None,%,F3,10.1016/j.intermet.2020.106699
+351,TiZrHfNbTaMo0.25,BCC,AC,strain rate 4200s^-1,Compressive Ductility,EXP,None,298.0,26.0,None,%,F3,10.1016/j.intermet.2020.106699
+352,TiZrHfNbTaMo0.25,BCC,AC,strain rate 5300s^-1,Compressive Ductility,EXP,None,298.0,36.0,None,%,F3,10.1016/j.intermet.2020.106699
+353,TiZrHfNbTaMo0.5,BCC,AC,strain rate 3000s^-1,Compressive Ductility,EXP,None,298.0,23.0,None,%,F3,10.1016/j.intermet.2020.106699
+354,TiZrHfNbTaMo0.5,BCC,AC,strain rate 4200s^-1,Compressive Ductility,EXP,None,298.0,22.5,None,%,F3,10.1016/j.intermet.2020.106699
+355,TiZrHfNbTaMo0.5,BCC,AC,strain rate 5400s^-1,Compressive Ductility,EXP,None,298.0,11.0,None,%,F3,10.1016/j.intermet.2020.106699
+356,TiZrHfNbTaMo0.75,BCC,AC,strain rate 2100s^-1,Compressive Ductility,EXP,None,298.0,19.0,None,%,F3,10.1016/j.intermet.2020.106699
+357,TiZrHfNbTaMo0.75,BCC,AC,strain rate 4500s^-1,Compressive Ductility,EXP,None,298.0,10.0,None,%,F3,10.1016/j.intermet.2020.106699
+358,TiZrHfNbTaMo0.75,BCC,AC,strain rate 6000s^-1,Compressive Ductility,EXP,None,298.0,15.0,None,%,F3,10.1016/j.intermet.2020.106699
+359,Mo28.33Cr28.33Ti28.33Al15,BCC,None,heat treatment 1200oC/20h, strain rate 10^-3 s^-1,Compressive Ductility,EXP,None,298.0,4.0,None,%,F6,10.1016/j.jallcom.2020.153805
+360,Mo28.33Cr28.33Ti28.33Al15,BCC,None,heat treatment 1200oC/20h, strain rate 10^-3 s^-1,Compressive Ductility,EXP,None,698.0,3.5,None,%,F6,10.1016/j.jallcom.2020.153805
+361,Mo28.33Cr28.33Ti28.33Al15,BCC,None,heat treatment 1200oC/20h, strain rate 10^-3 s^-1,Compressive Ductility,EXP,None,898.0,4.5,None,%,F6,10.1016/j.jallcom.2020.153805
+362,Mo28.33Cr28.33Ti28.33Al15,BCC,None,heat treatment 1200oC/20h, strain rate 10^-3 s^-1,Compressive Ductility,EXP,None,1098.0,6.2,None,%,F6,10.1016/j.jallcom.2020.153805
+363,Mo32.33Cr32.33Ti32.33Al3,BCC,None,heat treatment 1200oC/20h, strain rate 10^-3 s^-1,Compressive Ductility,EXP,None,298.0,2.0,None,%,F6,10.1016/j.jallcom.2020.153805
+364,Mo32.33Cr32.33Ti32.33Al3,BCC,None,heat treatment 1200oC/20h, strain rate 10^-3 s^-1,Compressive Ductility,EXP,None,698.0,9.8,None,%,F6,10.1016/j.jallcom.2020.153805
+365,Mo32.33Cr32.33Ti32.33Al3,BCC,None,heat treatment 1200oC/20h, strain rate 10^-3 s^-1,Compressive Ductility,EXP,None,898.0,9.6,None,%,F6,10.1016/j.jallcom.2020.153805
+366,Mo32.33Cr32.33Ti32.33Al3,BCC,None,heat treatment 1200oC/20h, strain rate 10^-3 s^-1,Compressive Ductility,EXP,None,1098.0,20.0,None,%,F6,10.1016/j.jallcom.2020.153805
+367,Hf0.5Mo0.5NbTi,BCC,None,none,Compressive Ductility,EXP,None,298.0,23.0,None,%,T3,10.1016/j.ijrmhm.2021.105473
+368,Hf0.5Mo0.5NbTiZr0.1,BCC,None,none,Compressive Ductility,EXP,None,298.0,27.0,None,%,T3,10.1016/j.ijrmhm.2021.105473
+369,Hf0.5Mo0.5NbTiZr0.3,BCC,None,none,Compressive Ductility,EXP,None,298.0,24.0,None,%,T3,10.1016/j.ijrmhm.2021.105473
+370,Hf0.5Mo0.5NbTiZr0.5,BCC,None,none,Compressive Ductility,EXP,None,298.0,15.0,None,%,T3,10.1016/j.ijrmhm.2021.105473
+371,Hf0.5Mo0.5NbTiZr0.7,BCC,None,none,Compressive Ductility,EXP,None,298.0,14.0,None,%,T3,10.1016/j.ijrmhm.2021.105473
+372,Hf0.5Mo0.5NbTiZr0.9,BCC,None,none,Compressive Ductility,EXP,None,298.0,12.0,None,%,T3,10.1016/j.ijrmhm.2021.105473
+373,CoFeNiTiV,BCC,None,none,Compressive Ductility,EXP,None,298.0,21.3,None,%,T3,10.1016/j.ijrmhm.2020.105416
+374,CoCrFeNiTi0.5,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,20.0,None,%,T3,10.1016/j.ijrmhm.2020.105416
+375,CoFeNiTiCu,FCC,None,none,Compressive Ductility,EXP,None,298.0,15.1,None,%,T3,10.1016/j.ijrmhm.2020.105416
+376,CoFeNiCrTiAl0.5,BCC,None,none,Compressive Ductility,EXP,None,298.0,9.9,None,%,T3,10.1016/j.ijrmhm.2020.105416
+377,CoFeNiCrTiAl1.5,BCC,None,none,Compressive Ductility,EXP,None,298.0,9.8,None,%,T3,10.1016/j.ijrmhm.2020.105416
+378,CoFeNiCrTi,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,9.0,None,%,T3,10.1016/j.ijrmhm.2020.105416
+379,CoCrFeNiTi,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,75.0,None,%,T3,10.1016/j.ijrmhm.2020.105416
+380,CoFeNiCrTiAl2,BCC,None,none,Compressive Ductility,EXP,None,298.0,5.2,None,%,T3,10.1016/j.ijrmhm.2020.105416
+381,AlCoCrFeNiTi,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,8.8,None,%,T3,10.1016/j.ijrmhm.2020.105416
+382,AlCoCrFeNiTi1.5,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,5.3,None,%,T3,10.1016/j.ijrmhm.2020.105416
+383,Co0.5FeNiCrTi0.5,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,10.0,None,%,T3,10.1016/j.ijrmhm.2020.105416
+384,AlTiCoNiFe,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,5.8,None,%,T3,10.1016/j.ijrmhm.2020.105416
+385,CoCrCuFeNiTi0.8,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,2.11,None,%,T3,10.1016/j.ijrmhm.2020.105416
+386,CoCrCuFeNiTi,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,1.6,None,%,T3,10.1016/j.ijrmhm.2020.105416
+387,CoFeNiAl0.5Ti0.5,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,1.7,None,%,T3,10.1016/j.ijrmhm.2020.105416
+388,CrCoFeNiAl0.5Ti0.5,BCC+FCC,None,none,Compressive Ductility,EXP,None,298.0,2.3,None,%,T3,10.1016/j.ijrmhm.2020.105416
+389,Ti42.5Zr42.5Nb5Mo5Ta5,BCC,AC,none,Tensile Ductility,EXP,None,298.0,14.9,None,%,F5,10.1016/j.msea.2021.141135
+390,Ti45Zr45Nb5Mo5,BCC,AC,none,Tensile Ductility,EXP,None,298.0,9.1,None,%,F5,10.1016/j.msea.2021.141135
+391,Ti45Zr45Nb5Ta5,BCC,AC,none,Tensile Ductility,EXP,None,298.0,7.9,None,%,F5,10.1016/j.msea.2021.141135
+392,Ti3Nb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,4.253,None,None,TB1,10.1016/j.actamat.2021.116800
+393,Ti2Nb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,4.14,None,None,TB1,10.1016/j.actamat.2021.116800
+394,TiNb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.889,None,None,TB1,10.1016/j.actamat.2021.116800
+395,TiNb2,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.651,None,None,TB1,10.1016/j.actamat.2021.116800
+396,TiNb3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.537,None,None,TB1,10.1016/j.actamat.2021.116800
+397,Ti3W,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.313,None,None,TB1,10.1016/j.actamat.2021.116800
+398,Ti2W,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.104,None,None,TB1,10.1016/j.actamat.2021.116800
+399,TiW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.632,None,None,TB1,10.1016/j.actamat.2021.116800
+400,TiW2,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.279,None,None,TB1,10.1016/j.actamat.2021.116800
+401,TiW3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.082,None,None,TB1,10.1016/j.actamat.2021.116800
+402,TiW7,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.833,None,None,TB1,10.1016/j.actamat.2021.116800
+403,Ti3Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.86,None,None,TB1,10.1016/j.actamat.2021.116800
+404,Ti2Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.795,None,None,TB1,10.1016/j.actamat.2021.116800
+405,TiRu,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.736,None,None,TB1,10.1016/j.actamat.2021.116800
+406,Hf3Nb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.485,None,None,TB1,10.1016/j.actamat.2021.116800
+407,Hf2Nb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.5,None,None,TB1,10.1016/j.actamat.2021.116800
+408,HfNb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.521,None,None,TB1,10.1016/j.actamat.2021.116800
+409,HfNb2,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.294,None,None,TB1,10.1016/j.actamat.2021.116800
+410,HfNb3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.243,None,None,TB1,10.1016/j.actamat.2021.116800
+411,V7W,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.98,None,None,TB1,10.1016/j.actamat.2021.116800
+412,V3W,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.704,None,None,TB1,10.1016/j.actamat.2021.116800
+413,VW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.246,None,None,TB1,10.1016/j.actamat.2021.116800
+414,VW3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.836,None,None,TB1,10.1016/j.actamat.2021.116800
+415,VW7,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.773,None,None,TB1,10.1016/j.actamat.2021.116800
+416,Nb7Ta,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.009,None,None,TB1,10.1016/j.actamat.2021.116800
+417,Nb3Ta,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.006,None,None,TB1,10.1016/j.actamat.2021.116800
+418,NbTa,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.032,None,None,TB1,10.1016/j.actamat.2021.116800
+419,NbTa3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.1,None,None,TB1,10.1016/j.actamat.2021.116800
+420,NbTa7,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.146,None,None,TB1,10.1016/j.actamat.2021.116800
+421,Nb3Mo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.423,None,None,TB1,10.1016/j.actamat.2021.116800
+422,Nb2Mo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.289,None,None,TB1,10.1016/j.actamat.2021.116800
+423,NbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.038,None,None,TB1,10.1016/j.actamat.2021.116800
+424,NbMo2,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.869,None,None,TB1,10.1016/j.actamat.2021.116800
+425,NbMo3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.839,None,None,TB1,10.1016/j.actamat.2021.116800
+426,Nb3W,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.461,None,None,TB1,10.1016/j.actamat.2021.116800
+427,Nb2W,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.338,None,None,TB1,10.1016/j.actamat.2021.116800
+428,NbW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.076,None,None,TB1,10.1016/j.actamat.2021.116800
+429,NbW2,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.841,None,None,TB1,10.1016/j.actamat.2021.116800
+430,NbW3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.775,None,None,TB1,10.1016/j.actamat.2021.116800
+431,Nb7Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.518,None,None,TB1,10.1016/j.actamat.2021.116800
+432,Nb3Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.404,None,None,TB1,10.1016/j.actamat.2021.116800
+433,Nb2Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.436,None,None,TB1,10.1016/j.actamat.2021.116800
+434,NbRu,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.023,None,None,TB1,10.1016/j.actamat.2021.116800
+435,Ta7Mo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.845,None,None,TB1,10.1016/j.actamat.2021.116800
+436,Ta3Mo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.572,None,None,TB1,10.1016/j.actamat.2021.116800
+437,TaMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.141,None,None,TB1,10.1016/j.actamat.2021.116800
+438,TaMo3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.843,None,None,TB1,10.1016/j.actamat.2021.116800
+439,TaMo7,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.85,None,None,TB1,10.1016/j.actamat.2021.116800
+440,Ta7Re,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.657,None,None,TB1,10.1016/j.actamat.2021.116800
+441,Ta3Re,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.261,None,None,TB1,10.1016/j.actamat.2021.116800
+442,TaRe,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.707,None,None,TB1,10.1016/j.actamat.2021.116800
+443,TaRe3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.85,None,None,TB1,10.1016/j.actamat.2021.116800
+444,Mo7W,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.945,None,None,TB1,10.1016/j.actamat.2021.116800
+445,Mo3W,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.928,None,None,TB1,10.1016/j.actamat.2021.116800
+446,MoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.91,None,None,TB1,10.1016/j.actamat.2021.116800
+447,MoW3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.899,None,None,TB1,10.1016/j.actamat.2021.116800
+448,MoW7,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.897,None,None,TB1,10.1016/j.actamat.2021.116800
+449,W7Re,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.14,None,None,TB1,10.1016/j.actamat.2021.116800
+450,W3Re,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.369,None,None,TB1,10.1016/j.actamat.2021.116800
+451,WRe,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.928,None,None,TB1,10.1016/j.actamat.2021.116800
+452,WRe3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.02,None,None,TB1,10.1016/j.actamat.2021.116800
+453,W7Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.339,None,None,TB1,10.1016/j.actamat.2021.116800
+454,W3Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.505,None,None,TB1,10.1016/j.actamat.2021.116800
+455,W2Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.828,None,None,TB1,10.1016/j.actamat.2021.116800
+456,Ti2NbW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.104,None,None,TB1,10.1016/j.actamat.2021.116800
+457,Ti2Nb2W,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.182,None,None,TB1,10.1016/j.actamat.2021.116800
+458,TiNbW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.758,None,None,TB1,10.1016/j.actamat.2021.116800
+459,TiNb2W,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.705,None,None,TB1,10.1016/j.actamat.2021.116800
+460,TiNb2W2,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.5,None,None,TB1,10.1016/j.actamat.2021.116800
+461,TiNbW2,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.399,None,None,TB1,10.1016/j.actamat.2021.116800
+462,TiWRe,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.973,None,None,TB1,10.1016/j.actamat.2021.116800
+463,TiW2Re,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.924,None,None,TB1,10.1016/j.actamat.2021.116800
+464,TiNbRu,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.492,None,None,TB1,10.1016/j.actamat.2021.116800
+465,TiNb2Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.418,None,None,TB1,10.1016/j.actamat.2021.116800
+466,TiZrHfNb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.732,None,None,TB1,10.1016/j.actamat.2021.116800
+467,TiZrHf2Nb2,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.642,None,None,TB1,10.1016/j.actamat.2021.116800
+468,TiZrHfNb3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.531,None,None,TB1,10.1016/j.actamat.2021.116800
+469,TiZrVNb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.66,None,None,TB1,10.1016/j.actamat.2021.116800
+470,TiZr2V2Nb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.439,None,None,TB1,10.1016/j.actamat.2021.116800
+471,TiVNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.788,None,None,TB1,10.1016/j.actamat.2021.116800
+472,TiNbWRe,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.078,None,None,TB1,10.1016/j.actamat.2021.116800
+473,TiNb3WRe,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.364,None,None,TB1,10.1016/j.actamat.2021.116800
+474,TiNb2W2Re,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.106,None,None,TB1,10.1016/j.actamat.2021.116800
+475,TiNbW3Re,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.938,None,None,TB1,10.1016/j.actamat.2021.116800
+476,TiNbWRu,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.269,None,None,TB1,10.1016/j.actamat.2021.116800
+477,TiNb3WRu,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.457,None,None,TB1,10.1016/j.actamat.2021.116800
+478,TiNb2W2Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.25,None,None,TB1,10.1016/j.actamat.2021.116800
+479,TiNbW3Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.175,None,None,TB1,10.1016/j.actamat.2021.116800
+480,VNbWRu,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.342,None,None,TB1,10.1016/j.actamat.2021.116800
+481,VNb2W2Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.182,None,None,TB1,10.1016/j.actamat.2021.116800
+482,VNbW3Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.192,None,None,TB1,10.1016/j.actamat.2021.116800
+483,VMoWRu,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.46,None,None,TB1,10.1016/j.actamat.2021.116800
+484,VMoW3Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.316,None,None,TB1,10.1016/j.actamat.2021.116800
+485,Nb2Ta2MoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.416,None,None,TB1,10.1016/j.actamat.2021.116800
+486,NbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.106,None,None,TB1,10.1016/j.actamat.2021.116800
+487,NbTa3MoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.425,None,None,TB1,10.1016/j.actamat.2021.116800
+488,NbTaMoW3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.854,None,None,TB1,10.1016/j.actamat.2021.116800
+489,Nb3TaWRu,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.233,None,None,TB1,10.1016/j.actamat.2021.116800
+490,Nb2TaW2Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.137,None,None,TB1,10.1016/j.actamat.2021.116800
+491,NbMoW3Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.296,None,None,TB1,10.1016/j.actamat.2021.116800
+492,Ta2MoW2Re,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.851,None,None,TB1,10.1016/j.actamat.2021.116800
+493,TaMoWRe,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.998,None,None,TB1,10.1016/j.actamat.2021.116800
+494,TaMoW3Re,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.97,None,None,TB1,10.1016/j.actamat.2021.116800
+495,TaMoWRu,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.525,None,None,TB1,10.1016/j.actamat.2021.116800
+496,TaMo2W2Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.301,None,None,TB1,10.1016/j.actamat.2021.116800
+497,TaMoW3Ru,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.29,None,None,TB1,10.1016/j.actamat.2021.116800
+498,NbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.113,None,None,TC1,10.1016/j.actamat.2021.116800
+499,VNbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.28,None,None,TC1,10.1016/j.actamat.2021.116800
+500,VNbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.28,None,None,TC1,10.1016/j.actamat.2021.116800
+501,TiZrHfNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.088,None,None,TC1,10.1016/j.actamat.2021.116800
+502,TiZrHfNb0.5Mo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.13,None,None,TC1,10.1016/j.actamat.2021.116800
+503,TiZrHfNb1.5Mo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.058,None,None,TC1,10.1016/j.actamat.2021.116800
+504,Ti0.5ZrHfNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.979,None,None,TC1,10.1016/j.actamat.2021.116800
+505,Ti1.5ZrHfNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.177,None,None,TC1,10.1016/j.actamat.2021.116800
+506,TiZr0.5HfNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.038,None,None,TC1,10.1016/j.actamat.2021.116800
+507,TiZr1.5HfNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.135,None,None,TC1,10.1016/j.actamat.2021.116800
+508,TiZrHf0.5NbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.997,None,None,TC1,10.1016/j.actamat.2021.116800
+509,TiZrHf1.5NbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.162,None,None,TC1,10.1016/j.actamat.2021.116800
+510,TiZrHf0.5NbMo0.5,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.237,None,None,TC1,10.1016/j.actamat.2021.116800
+511,TiZrHfNbMo1.5,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.924,None,None,TC1,10.1016/j.actamat.2021.116800
+512,TiZrHfNbTa,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.552,None,None,TC1,10.1016/j.actamat.2021.116800
+513,TiZrHfNbTa,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.552,None,None,TC1,10.1016/j.actamat.2021.116800
+514,TiZrHfNbTaMo0.25,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.388,None,None,TC1,10.1016/j.actamat.2021.116800
+515,TiZrHfNbTaMo0.5,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.26,None,None,TC1,10.1016/j.actamat.2021.116800
+516,TiZrHfNbTaMo0.75,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.158,None,None,TC1,10.1016/j.actamat.2021.116800
+517,TiZrHfNbTaMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.073,None,None,TC1,10.1016/j.actamat.2021.116800
+518,TiZrNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.883,None,None,TC1,10.1016/j.actamat.2021.116800
+519,TiZrV0.25NbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.893,None,None,TC1,10.1016/j.actamat.2021.116800
+520,TiZrV0.5NbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.898,None,None,TC1,10.1016/j.actamat.2021.116800
+521,TiZrV0.75NbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.896,None,None,TC1,10.1016/j.actamat.2021.116800
+522,TiZrVNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.89,None,None,TC1,10.1016/j.actamat.2021.116800
+523,TiZrV1.5NbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.881,None,None,TC1,10.1016/j.actamat.2021.116800
+524,TiZrV2NbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.877,None,None,TC1,10.1016/j.actamat.2021.116800
+525,TiZrV3NbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.874,None,None,TC1,10.1016/j.actamat.2021.116800
+526,TiVNbTa,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.296,None,None,TC1,10.1016/j.actamat.2021.116800
+527,TiVNbTaW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.827,None,None,TC1,10.1016/j.actamat.2021.116800
+528,NbTaVW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.527,None,None,TC1,10.1016/j.actamat.2021.116800
+529,TiZrVNb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.37,None,None,TC1,10.1016/j.actamat.2021.116800
+530,TiZrV2Nb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.23,None,None,TC1,10.1016/j.actamat.2021.116800
+531,TiVNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.728,None,None,TC1,10.1016/j.actamat.2021.116800
+532,TiZrHfVNb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.569,None,None,TC1,10.1016/j.actamat.2021.116800
+533,TiZrHfNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.088,None,None,TC1,10.1016/j.actamat.2021.116800
+534,TiVNbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.575,None,None,TC1,10.1016/j.actamat.2021.116800
+535,TiNbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.498,None,None,TC1,10.1016/j.actamat.2021.116800
+536,NbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.113,None,None,TC1,10.1016/j.actamat.2021.116800
+537,VNbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.28,None,None,TC1,10.1016/j.actamat.2021.116800
+538,TiZrVNb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.37,None,None,TC1,10.1016/j.actamat.2021.116800
+539,TiZrV0.3Nb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.485,None,None,TC1,10.1016/j.actamat.2021.116800
+540,TiZrVNbMo0.3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.185,None,None,TC1,10.1016/j.actamat.2021.116800
+541,TiZrVNbMo0.5,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.085,None,None,TC1,10.1016/j.actamat.2021.116800
+542,TiZrVNbMo0.7,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.0,None,None,TC1,10.1016/j.actamat.2021.116800
+543,TiZrVNbMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.89,None,None,TC1,10.1016/j.actamat.2021.116800
+544,TiZrVNbMo1.3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.795,None,None,TC1,10.1016/j.actamat.2021.116800
+545,TiZrV0.3NbMo0.1,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.387,None,None,TC1,10.1016/j.actamat.2021.116800
+546,TiZrV0.3NbMo0.3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.226,None,None,TC1,10.1016/j.actamat.2021.116800
+547,TiZrV0.3NbMo0.5,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.106,None,None,TC1,10.1016/j.actamat.2021.116800
+548,TiZrV0.3NbMo0.7,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.011,None,None,TC1,10.1016/j.actamat.2021.116800
+549,TiZrV0.3NbMo1.0,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.894,None,None,TC1,10.1016/j.actamat.2021.116800
+550,TiZrV0.3NbMo1.3,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.793,None,None,TC1,10.1016/j.actamat.2021.116800
+551,TiZrV0.3NbMo1.5,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.731,None,None,TC1,10.1016/j.actamat.2021.116800
+552,TiZrHf0.5NbMo0.5,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.997,None,None,TC1,10.1016/j.actamat.2021.116800
+553,ZrHfNbTa,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.316,None,None,TC1,10.1016/j.actamat.2021.116800
+554,NbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.113,None,None,TC1,10.1016/j.actamat.2021.116800
+555,Ti0.25NbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.233,None,None,TC1,10.1016/j.actamat.2021.116800
+556,Ti0.5NbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.335,None,None,TC1,10.1016/j.actamat.2021.116800
+557,Ti0.75NbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.424,None,None,TC1,10.1016/j.actamat.2021.116800
+558,TiNbTaMoW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.498,None,None,TC1,10.1016/j.actamat.2021.116800
+559,TiVNbTaMo,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.809,None,None,TC1,10.1016/j.actamat.2021.116800
+560,Ti38Hf24V15Nb23,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.713,None,None,TC1,10.1016/j.actamat.2021.116800
+561,TiZrHfNbTa,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.552,None,None,TC1,10.1016/j.actamat.2021.116800
+562,TiZrHfNb,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.821,None,None,TC1,10.1016/j.actamat.2021.116800
+563,Ti1.5ZrHf0.5Nb0.5Ta0.5,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.817,None,None,TC1,10.1016/j.actamat.2021.116800
+564,MoNbTi,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.651,None,None,TA4,10.1016/j.jmps.2021.104389
+565,MoNbTaVW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.249,None,None,TA4,10.1016/j.jmps.2021.104389
+566,MoNbTaW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.087,None,None,TA4,10.1016/j.jmps.2021.104389
+567,HfNbTiZr,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.403,None,None,T2,10.1016/j.actamat.2020.03.004
+568,NbTiVZr,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,3.034,None,None,T2,10.1016/j.actamat.2020.03.004
+569,MoNbTiV,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.371,None,None,T2,10.1016/j.actamat.2020.03.004
+570,MoNbTaVW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,2.009,None,None,T2,10.1016/j.actamat.2020.03.004
+571,MoNbTaW,BCC,None,DFT calculations with the SQS method,d parameter,DFT,None,0.0,1.858,None,None,T2,10.1016/j.actamat.2020.03.004
+572,HfNbZr,None,None,none,B/G ratio,DFT,None,0.0,2.72,None,None,T1,10.1016/j.ijrmhm.2020.105451
+573,HfNbZrTa,None,None,none,B/G ratio,DFT,None,0.0,2.57,None,None,T1,10.1016/j.ijrmhm.2020.105451
+574,HfNbZrTa0.75Ti0.25,None,None,none,B/G ratio,DFT,None,0.0,2.61,None,None,T1,10.1016/j.ijrmhm.2020.105451
+575,HfNbZrTa0.5Ti0.5,None,None,none,B/G ratio,DFT,None,0.0,2.64,None,None,T1,10.1016/j.ijrmhm.2020.105451
+576,HfNbZrTa0.25Ti0.75,None,None,none,B/G ratio,DFT,None,0.0,2.7,None,None,T1,10.1016/j.ijrmhm.2020.105451
+577,HfNbZrTi,None,None,none,B/G ratio,DFT,None,0.0,2.78,None,None,T1,10.1016/j.ijrmhm.2020.105451
+578,NbTiZr,BCC,None,none,Tensile Ductility,EXP,None,298.15,5.2,None,%,T5,10.1016/j.apsusc.2021.149338
+579,NbTaTiZr,BCC,None,none,Tensile Ductility,EXP,None,298.15,5.3,None,%,T5,10.1016/j.apsusc.2021.149338
+580,CrCoNi,BCC,None,homogeneous ,Tensile Ductility,EXP,None,298.15,54.0,None,%,F3,10.1016/j.jallcom.2020.157388
+581,CrCoNi,BCC,A,Tpye 1 annealing 60 min,Tensile Ductility,EXP,None,298.15,45.0,None,%,F3,10.1016/j.jallcom.2020.157388
+582,CrCoNi,BCC,A,Tpye 1 annealing 15 min,Tensile Ductility,EXP,None,298.15,43.0,None,%,F3,10.1016/j.jallcom.2020.157388
+583,CrCoNi,BCC,A,Tpye 1 annealing 5 min,Tensile Ductility,EXP,None,298.15,30.0,None,%,F3,10.1016/j.jallcom.2020.157388
+584,CrCoNi,BCC,A,Tpye 1 annealing 0 min,Tensile Ductility,EXP,None,298.15,25.0,None,%,F3,10.1016/j.jallcom.2020.157388
+585,CrCoNi,BCC,None,gradient microstructure,Tensile Ductility,EXP,None,298.15,6.0,None,%,F3,10.1016/j.jallcom.2020.157388
+586,CrCoNi,BCC,None,homogeneous ,Tensile Ductility,EXP,None,298.15,54.0,None,%,F3,10.1016/j.jallcom.2020.157388
+587,CrCoNi,BCC,A,Tpye 2 annealing  15 min,Tensile Ductility,EXP,None,298.15,48.0,None,%,F3,10.1016/j.jallcom.2020.157388
+588,CrCoNi,BCC,A,Tpye 2 annealing 5 min,Tensile Ductility,EXP,None,298.15,39.0,None,%,F3,10.1016/j.jallcom.2020.157388
+589,CrCoNi,BCC,A,Tpye 2 annealing 2.5 min,Tensile Ductility,EXP,None,298.15,28.0,None,%,F3,10.1016/j.jallcom.2020.157388
+590,CrCoNi,BCC,A,Tpye 2 annealing 2 min,Tensile Ductility,EXP,None,298.15,18.0,None,%,F3,10.1016/j.jallcom.2020.157388
+591,CrCoNi,BCC,A,Tpye 2 annealing 1 min,Tensile Ductility,EXP,None,298.15,9.0,None,%,F3,10.1016/j.jallcom.2020.157388
+592,CrCoNi,BCC,None,gradient microstructure,Tensile Ductility,EXP,None,298.15,8.0,None,%,F3,10.1016/j.jallcom.2020.157388
+593,CrFeCoNiAl0.7,BCC,AC,none,Tensile Ductility,EXP,None,298.15,9.2,None,%,F4,10.1016/j.jmst.2021.01.053
+594,Mo,BCC,None,none,Tensile Ductility,EXP,None,298.15,1.2,None,%,T2,10.1016/j.jallcom.2021.159118
+595,Ti3V2NbAl0.5Ni0.5,BCC,None,none,compressive Ductility,EXP,None,873.0,48.0,None,%,F8,10.1016/j.intermet.2021.107187
+596,Ti3V2NbAl0.5Ni0.5,BCC,None,none,compressive Ductility,EXP,None,973.0,45.0,None,%,F8,10.1016/j.intermet.2021.107187
+597,Ti3V2NbAl0.5Ni0.5,BCC,None,none,compressive Ductility,EXP,None,1073.0,60.0,None,%,F8,10.1016/j.intermet.2021.107187
+598,TiZrHfNbTa,BCC,None,none,Tensile Ductility,EXP,None,77.0,21.0,None,%,F1,10.1016/j.actamat.2020.10.044
+599,TiZrHfNbTa,BCC,None,none,tensile Ductility,EXP,None,277.0,24.0,None,%,F1,10.1016/j.actamat.2020.10.044
+600,Ti 16 Zr 35 Hf 35 Ta 14,BCC,AC,none,Tensile Ductility,EXP,None,298.15,2.5,None,%,F1,10.1016/j.scriptamat.2020.08.013
+601,Ti 16 Zr 35 Hf 35 Ta 14,BCC,WQ,none,Tensile Ductility,EXP,None,298.15,27.5,None,%,F1,10.1016/j.scriptamat.2020.08.013
+602,TiZrHfNb,BCC,None,none,Tensile Ductility,EXP,None,298.15,23.0,None,%,F4,10.3389/fmats.2020.589052
+603,TiZrHfNbO0.5,BCC,None,none,Tensile Ductility,EXP,None,298.15,21.0,None,%,F4,10.3389/fmats.2020.589052
+604,TiZrHfNbO1,BCC,None,none,Tensile Ductility,EXP,None,298.15,22.0,None,%,F4,10.3389/fmats.2020.589052
+605,TiZrHfNbO1.5,BCC,None,none,Tensile Ductility,EXP,None,298.15,24.0,None,%,F4,10.3389/fmats.2020.589052
+606,TiZrHfNbO2,BCC,None,none,Tensile Ductility,EXP,None,298.15,24.0,None,%,F4,10.3389/fmats.2020.589052
+607,TiZrVNb,BCC,None,none,Tensile Ductility,EXP,None,298.15,4.0,None,%,F5,10.1007/s12613-020-2040-1
+608,Ti1.5ZrVNb,BCC,None,none,Tensile Ductility,EXP,None,298.15,11.6,None,%,F5,10.1007/s12613-020-2040-1
+609,Ti2ZrVNb,BCC,None,none,Tensile Ductility,EXP,None,298.15,12.5,None,%,F5,10.1007/s12613-020-2040-1
+610,V0.5Nb0.5ZrTi,BCC,AC,none,Tensile Ductility,EXP,None,298.15,16.0,None,%,F4,10.1016/j.msea.2020.139774
+611,Ta12.25Nb12.25Hf24.5Zr24.5Ti24.5O2,BCC,AC,none,Tensile Ductility,EXP,None,298.15,22.5,None,%,F3,10.1126/sciadv.aba7802
+612,Ta12.25Nb12.25Hf24.5Zr24.5Ti24.5N2,BCC,AC,none,Tensile Ductility,EXP,None,298.15,15.0,None,%,F3,10.1126/sciadv.aba7802
+613,Ta0.5Nb0.5HfZrTi,BCC,AC,none,Tensile Ductility,EXP,None,298.15,14.0,None,%,F3,10.1126/sciadv.aba7802
+614,Ti50Nb30Cr10V10,BCC,A,annealling at 1000 oC for 24h, ductility lowest limit,Compressive Ductility,EXP,None,298.15,50.0,None,%,T4,10.1016/j.msea.2020.139409
+615,Ti42.1875Nb25.3125Cr10V10Ni7.5Al5,BCC,A,annealling at 1000 oC for 24h,Compressive Ductility,EXP,None,298.15,13.8,None,%,T4,10.1016/j.msea.2020.139409
+616,Ti39.0625Nb23.4375Cr10V10Ni10.5Al7,BCC,A,annealling at 1000 oC for 24h,Compressive Ductility,EXP,None,298.15,8.9,None,%,T4,10.1016/j.msea.2020.139409
+617,Ti34.375Nb20.625Cr10V10Ni15Al10,BCC,A,annealling at 1000 oC for 24h,Compressive Ductility,EXP,None,298.15,0.0,None,%,T4,10.1016/j.msea.2020.139409
+618,Ti50Nb30Cr10V10,BCC,A,annealling at 1000 oC for 24h, ductility lowest limit,Compressive Ductility,EXP,None,1098.15,50.0,None,%,T4,10.1016/j.msea.2020.139409
+619,Ti42.1875Nb25.3125Cr10V10Ni7.5Al5,BCC,A,annealling at 1000 oC for 24h, ductility lowest limit,Compressive Ductility,EXP,None,1098.15,50.0,None,%,T4,10.1016/j.msea.2020.139409
+620,Ti39.0625Nb23.4375Cr10V10Ni10.5Al7,BCC,A,annealling at 1000 oC for 24h, ductility lowest limit,Compressive Ductility,EXP,None,1098.15,50.0,None,%,T4,10.1016/j.msea.2020.139409
+621,Ti34.375Nb20.625Cr10V10Ni15Al10,BCC,A,annealling at 1000 oC for 24h, ductility lowest limit,Compressive Ductility,EXP,None,1098.15,50.0,None,%,T4,10.1016/j.msea.2020.139409
+622,Al 10 Nb 15 Ta 5 Ti 30 Zr 40,BCC,AC,none,Compressive Ductility,EXP,None,296.15,55.0,None,%,F2,10.1016/j.mt1a.2020.100627
+623,Al 10 Nb 15 Ta 5 Ti 30 Zr 40,BCC,SC,none,Compressive Ductility,EXP,None,296.15,57.0,None,%,F2,10.1016/j.mt1a.2020.100627
+624,Al 10 Nb 15 Ta 5 Ti 30 Zr 40,BCC,WQ,none,Compressive Ductility,EXP,None,296.15,59.0,None,%,F2,10.1016/j.mt1a.2020.100627
+625,Al 10 Nb 15 Ta 5 Ti 30 Zr 40,BCC,AC,none,Compressive Ductility,EXP,None,873.15,58.0,None,%,F2,10.1016/j.mt1a.2020.100627
+626,Al 10 Nb 15 Ta 5 Ti 30 Zr 40,BCC,WQ,none,Compressive Ductility,EXP,None,873.15,58.0,None,%,F2,10.1016/j.mt1a.2020.100627
+627,Al 10 Nb 15 Ta 5 Ti 30 Zr 40,BCC,SC,none,Compressive Ductility,EXP,None,873.15,60.0,None,%,F2,10.1016/j.mt1a.2020.100627
+628,HfNbTaTi,BCC,AC,none,Tensile Ductility,EXP,None,298.15,10.2,None,%,T2,10.2320/matertrans.MT-MK2019003
+629,HfNbTaZr,BCC,AC,none,Tensile Ductility,EXP,None,298.15,2.6,None,%,T2,10.2320/matertrans.MT-MK2019003
+630,HfNbTiZr,BCC,AC,none,Tensile Ductility,EXP,None,298.15,37.0,None,%,T2,10.2320/matertrans.MT-MK2019003
+631,HfTaTiZr,BCC,AC,none,Tensile Ductility,EXP,None,298.15,1.2,None,%,T2,10.2320/matertrans.MT-MK2019003
+632,NbTaTiZr,BCC,AC,none,Tensile Ductility,EXP,None,298.15,5.2,None,%,T2,10.2320/matertrans.MT-MK2019003
+633,HfNbTaTi,BCC,H,none,Tensile Ductility,EXP,None,298.15,28.0,None,%,T3,10.2320/matertrans.MT-MK2019003
+634,HfNbTaZr,BCC,H,none,Tensile Ductility,EXP,None,298.15,2.5,None,%,T3,10.2320/matertrans.MT-MK2019003
+635,HfNbTiZr,BCC,H,none,Tensile Ductility,EXP,None,298.15,40.0,None,%,T3,10.2320/matertrans.MT-MK2019003
+636,HfTaTiZr,BCC,H,none,Tensile Ductility,EXP,None,298.15,30.0,None,%,T3,10.2320/matertrans.MT-MK2019003
+637,NbTaTiZr,BCC,H,none,Tensile Ductility,EXP,None,298.15,21.0,None,%,T3,10.2320/matertrans.MT-MK2019003
+638,Ti1.89NbCrV0.56,BCC,AC,as cast at 750oC,Tensile Ductility,EXP,None,298.15,0.0,None,%,T2,10.3390/met9121351
+639,Ti1.89NbCrV0.56,BCC,None,laser beam welding 400oC,Tensile Ductility,EXP,None,298.15,0.0,None,%,T2,10.3390/met9121351
+640,Ti1.89NbCrV0.56,BCC,None,laser beam welding 600oC,Tensile Ductility,EXP,None,298.15,0.0,None,%,T2,10.3390/met9121351
+641,Ti1.89NbCrV0.56,BCC,None,laser beam welding 800oC,Tensile Ductility,EXP,None,298.15,10.4,None,%,T2,10.3390/met9121351
+642,Ti1.89CrNbV0.56,BCC,None,Cold-worked,Tensile Ductility,EXP,None,298.15,3.5,None,%,T4,10.1016/j.matchar.2019.109980
+643,HfNbTaTiZr,BCC,None,Cold-worked,Tensile Ductility,EXP,None,298.15,5.0,None,%,T4,10.1016/j.matchar.2019.109980
+644,HfNbTaTiZr,BCC,R,none,Tensile Ductility,EXP,None,298.15,12.2,None,%,T4,10.1016/j.matchar.2019.109980
+645,Hf0.5Nb0.5Ta0.5Ti1.5Zr,BCC,AC,none,Tensile Ductility,EXP,None,298.15,18.8,None,%,T4,10.1016/j.matchar.2019.109980
+646,HfNb0.18Ta0.18Ti1.27Zr,BCC,R,none,Tensile Ductility,EXP,None,298.15,23.0,None,%,T4,10.1016/j.matchar.2019.109980
+647,TiZrNbHfTa,BCC,None,HPT-processed,Unirradiated,Tensile Ductility,EXP,None,298.15,4.35,None,%,T2,10.1007/s11837-019-03861-6
+648,TiZrNbHfTa,BCC,None,HPT-processed,Irradiated,Tensile Ductility,EXP,None,298.15,4.67,None,%,T2,10.1007/s11837-019-03861-6
+649,NbTa,BCC,None,none,Tensile Ductility,EXP,None,298.15,21.0,None,%,T3,10.1016/j.intermet.2019.01.004
+650,TiNbTa,BCC,None,none,Tensile Ductility,EXP,None,298.15,19.0,None,%,T3,10.1016/j.intermet.2019.01.004
+651,HfNbTa,BCC,None,none,Tensile Ductility,EXP,None,298.15,10.0,None,%,T3,10.1016/j.intermet.2019.01.004
+652,TiHfNbTa,BCC,None,none,Tensile Ductility,EXP,None,298.15,11.0,None,%,T3,10.1016/j.intermet.2019.01.004
+653,HfNbTaTiZr,BCC+HCP,None,none,Tensile Ductility,EXP,None,298.15,12.3,None,%,T3,10.3390/e21020114
+654,NbTaTiZr,BCC+HCP,None,none,Tensile Ductility,EXP,None,298.15,6.4,None,%,T3,10.3390/e21020114
+655,NbTaTi,BCC+HCP,None,none,Tensile Ductility,EXP,None,298.15,18.5,None,%,T3,10.3390/e21020114
+656,TaTiZr,BCC+HCP,None,none,Tensile Ductility,EXP,None,298.15,0.0,None,%,T3,10.3390/e21020114
+657,NbTiZr,BCC+HCP,None,none,Tensile Ductility,EXP,None,298.15,14.2,None,%,T3,10.3390/e21020114
+658,Nb1.5TaTiZr0.5,BCC+HCP,None,none,Tensile Ductility,EXP,None,298.15,0.33,None,%,T3,10.3390/e21020114
+659,Nb0.5TaTiZr1.5,BCC+HCP,None,none,Tensile Ductility,EXP,None,298.15,0.0,None,%,T3,10.3390/e21020114
+660,TiNbTa0.5ZrAl0.2,BCC,None,none,Compressive Ductility,EXP,None,298.15,18.0,None,%,F9,10.1016/j.intermet.2018.06.007
+661,TiNbTa0.5Zr,BCC,None,none,Compressive Ductility,EXP,None,298.15,31.0,None,%,F9,10.1016/j.intermet.2018.06.007
+662,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+B2,A+HIP+A+SC,(1) cast plus HIP followed by annealing at 1200 °C for 24 h and slow cooling,Compressive Ductility,EXP,None,298.15,4.7,None,%,T1,10.1038/s41598-018-27144-3
+663,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+B2,A+HIP+A+SC,(1)cast plus HIP followed by annealing at 1200 °C for 24 h and slow cooling,Compressive Ductility,EXP,None,873.15,3.8,None,%,T1,10.1038/s41598-018-27144-3
+664,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+B2,A+HIP+A+SC,1 plus additional annealing at 1400 °C for 20 min and water quenching,lowest limit,Compressive Ductility,EXP,None,298.15,60.0,None,%,T1,10.1038/s41598-018-27144-3
+665,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+B2,A+HIP+A+SC,1 plus additional annealing at 1400 °C for 20 min and water quenching, lowest limit,Compressive Ductility,EXP,None,873.15,60.0,None,%,T1,10.1038/s41598-018-27144-3
+666,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+B2,A+HIP+A+SC,additional annealing at 600 °C for 120 hrs and water quenching,Compressive Ductility,EXP,None,298.15,38.0,None,%,T1,10.1038/s41598-018-27144-3
+667,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+B2,A+HIP+A+SC,additional annealing at 600 °C for 120 hrs and water quenching,Compressive Ductility,EXP,None,873.15,16.2,None,%,T1,10.1038/s41598-018-27144-3
+668,HfNbTiZr,BCC,None,solid-solution treated at 1273 K for 0.5 h,Tensile Ductility,EXP,None,298.15,28.0,None,%,F6,10.1016/j.msea.2018.03.071
+669,Al3Hf24.25Nb24.25Ti24.25Zr24.25,BCC,None,solid-solution treated at 1273 K for 0.5 h,Tensile Ductility,EXP,None,298.15,27.0,None,%,F6,10.1016/j.msea.2018.03.071
+670,Al5Hf23.75Nb23.75Ti23.75Zr23.75,BCC,None,solid-solution treated at 1273 K for 0.5 h,Tensile Ductility,EXP,None,298.15,25.0,None,%,F6,10.1016/j.msea.2018.03.071
+671,Al7Hf23.25Nb23.25Ti23.25Zr23.25,BCC,None,solid-solution treated at 1273 K for 0.5 h,Tensile Ductility,EXP,None,298.15,20.0,None,%,F6,10.1016/j.msea.2018.03.071
+672,Al10Hf22.5Nb22.5Ti22.5Zr22.5,BCC,None,solid-solution treated at 1273 K for 0.5 h,Tensile Ductility,EXP,None,298.15,17.0,None,%,F6,10.1016/j.msea.2018.03.071
+673,Al12Hf22Nb22Ti22Zr22,BCC,None,solid-solution treated at 1273 K for 0.5 h,Tensile Ductility,EXP,None,298.15,16.0,None,%,F6,10.1016/j.msea.2018.03.071
+674,HfNbTiZr,BCC,None,treated at 1273 K for 0.5 h, followed by aging at 873 K for 100 h,Tensile Ductility,EXP,None,298.15,27.5,None,%,F6,10.1016/j.msea.2018.03.071
+675,Al3Hf24.25Nb24.25Ti24.25Zr24.25,BCC,None,treated at 1273 K for 0.5 h, followed by aging at 873 K for 100 h,Tensile Ductility,EXP,None,298.15,25.5,None,%,F6,10.1016/j.msea.2018.03.071
+676,Al5Hf23.75Nb23.75Ti23.75Zr23.75,BCC,None,treated at 1273 K for 0.5 h, followed by aging at 873 K for 100 h,Tensile Ductility,EXP,None,298.15,25.0,None,%,F6,10.1016/j.msea.2018.03.071
+677,Al7Hf23.25Nb23.25Ti23.25Zr23.25,BCC,None,treated at 1273 K for 0.5 h, followed by aging at 873 K for 100 h,Tensile Ductility,EXP,None,298.15,15.0,None,%,F6,10.1016/j.msea.2018.03.071
+678,Al10Hf22.5Nb22.5Ti22.5Zr22.5,BCC,None,treated at 1273 K for 0.5 h, followed by aging at 873 K for 100 h,Tensile Ductility,EXP,None,298.15,12.5,None,%,F6,10.1016/j.msea.2018.03.071
+679,Al12Hf22Nb22Ti22Zr22,BCC,None,treated at 1273 K for 0.5 h, followed by aging at 873 K for 100 h,Tensile Ductility,EXP,None,298.15,11.0,None,%,F6,10.1016/j.msea.2018.03.071
+680,W 60 Ta 40,BCC,None,none,Compressive Ductility,EXP,None,298.0,8.5,None,%,F3,10.1016-j.scriptamat.2021.113839
+681,W 60 Ta 40,BCC,None,none,Compressive Ductility,EXP,None,473.0,15.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+682,W 60 Ta 40,BCC,None,none,Compressive Ductility,EXP,None,673.0,14.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+683,W 60 Ta 40,BCC,None,none,Compressive Ductility,EXP,None,873.0,17.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+684,W 60 Ta 40,BCC,None,none,Compressive Ductility,EXP,None,1073.0,20.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+685,WTaVTi,BCC,None,none,Compressive Ductility,EXP,None,298.0,17.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+686,WTaVTi,BCC,None,none,Compressive Ductility,EXP,None,473.0,22.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+687,WTaVTi,BCC,None,none,Compressive Ductility,EXP,None,673.0,28.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+688,WTaVTi,BCC,None,none,Compressive Ductility,EXP,None,873.0,26.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+689,WTaVTi,BCC,None,none,Compressive Ductility,EXP,None,1073.0,25.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+690,WTaVTiCr,BCC,None,none,Compressive Ductility,EXP,None,298.0,18.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+691,WTaVTiCr,BCC,None,none,Compressive Ductility,EXP,None,473.0,23.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+692,WTaVTiCr,BCC,None,none,Compressive Ductility,EXP,None,673.0,16.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+693,WTaVTiCr,BCC,None,none,Compressive Ductility,EXP,None,873.0,14.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+694,WTaVTiCr,BCC,None,none,Compressive Ductility,EXP,None,1073.0,15.0,None,%,F3,10.1016-j.scriptamat.2021.113839
+695,Ti28.32Zr28.32Hf28.32Nb6.74Ta6.74Mo1.55,None,None,none,Tensile Ductility,EXP,None,298.15,0.5,None,%,F8,10.1016/j.matdes.2021.109548
+696,WNi8Fe2Re6,BCC+FCC,None,Sintering at 1500 oC for 60 min,Tensile Ductility,EXP,None,298.15,13.0,None,%,T2,10.3390/ma14071660
+697,WNi4.9Fe2.1,BCC+FCC,None,ball milled for 50 h Sintered at 1490 oC for 90 min,Tensile Ductility,EXP,None,298.15,26.4,None,%,T2,10.3390/ma14071660
+698,WNi4.9Fe2.1Re0.2,BCC+FCC,None,ball milled for 50 h Sintered at 1490 oC for 90 min,Tensile Ductility,EXP,None,298.15,26.0,None,%,T2,10.3390/ma14071660
+699,WNi4.9Fe2.1Re0.4,BCC+FCC,None,ball milled for 50 h Sintered at 1490 oC for 90 min,Tensile Ductility,EXP,None,298.15,25.0,None,%,T2,10.3390/ma14071660
+700,WNi7Fe3Re,BCC+FCC,None,Sintering at 1480 oC for 120 min,Tensile Ductility,EXP,None,298.15,14.0,None,%,T2,10.3390/ma14071660
+701,WNi7Fe3Re,BCC+FCC,None,Sintering at 1480 oC for 120 min,Tensile Ductility,EXP,None,298.15,23.0,None,%,T2,10.3390/ma14071660
+702,WNi7Fe3,BCC+FCC,None,Sintering at 1500 oC for 30 min,Tensile Ductility,EXP,None,298.15,31.0,None,%,T2,10.3390/ma14071660
+703,WNi7Fe3Ta5,BCC+FCC,None,Sintering at 1500 oC for 30 min,Tensile Ductility,EXP,None,298.15,3.0,None,%,T2,10.3390/ma14071660
+704,Ti30Zr1Nb54Al15,BCC,E,Extrusion at 1100 oC  ,Tensile Ductility,EXP,None,298.15,24.0,None,%,T3,10.1007/BF02665823
+705,Ti30Zr1Nb54Al15,BCC,None,Heat treatment at 1550 oC/50 h + extrusion at 1100 Oc,Tensile Ductility,EXP,None,298.15,13.0,None,%,T3,10.1007/BF02665823
+706,Ti30Zr1Nb54Al15,BCC,None,Extrusion at 1100 oC+ heat treatment at 900 oC/8 h,Tensile Ductility,EXP,None,298.15,10.4,None,%,T3,10.1007/BF02665823
+707,Ti30Zr1Nb54Al15,BCC,AC,None,Tensile Ductility,EXP,None,298.15,0.0,None,%,T3,10.1007/BF02665823
+708,Ti55.5Nb25Al19.5,BCC,None,Extrusion at 1100 oC+ heat treatment at 900 oC/8 h,Tensile Ductility,EXP,None,298.15,19.0,None,%,T3,10.1007/BF02665823
+709,Ti58Nb21Al21,BCC,None,Extrusion at 930 oC+ heat treatment at 900 oC/24 h,Tensile Ductility,EXP,None,298.15,27.6,None,%,T3,10.1007/BF02665823
+710,Ti58Nb21Al21,BCC,None,Extrusion at 930 oC+ heat treatment at 900 oC/24 h,Tensile Ductility,EXP,None,298.15,16.2,None,%,T3,10.1007/BF02665823
+711,Ti45Zr35Ta10Al10,BCC,None,Extrusion at 1000 oC  ,Tensile Ductility,EXP,None,298.15,0.0,None,%,T3,10.1007/BF02665823
+712,Mo73Si10B14Hf3,None,None,strain rates  8*10-4s-1,Tensile Ductility,EXP,None,1698.15,106.0,None,%,T1,10.1016/j.msea.2011.11.001
+713,Mo73Si10B14Hf3,None,None,strain rates  8*10-4s-1,Tensile Ductility,EXP,None,1798.15,125.0,None,%,T1,10.1016/j.msea.2011.11.001
+714,Mo73Si10B14Hf3,None,None,strain rates  2*10-2s-1,Tensile Ductility,EXP,None,1698.15,57.0,None,%,T1,10.1016/j.msea.2011.11.001
+715,Mo73Si10B14Hf3,None,None,strain rates  2*10-2s-1,Tensile Ductility,EXP,None,1798.15,72.0,None,%,T1,10.1016/j.msea.2011.11.001
+716,Mo73Si10B14Hf3,None,None,strain rates  8*10-4s-1,UTS,EXP,None,1698.15,276000000.0,None,Pa,T1,10.1016/j.msea.2011.11.001
+717,Mo73Si10B14Hf3,None,None,strain rates  8*10-4s-1,UTS,EXP,None,1798.15,128000000.0,None,Pa,T1,10.1016/j.msea.2011.11.001
+718,Mo73Si10B14Hf3,None,None,strain rates  2*10-2s-1,UTS,EXP,None,1698.15,560000000.0,None,Pa,T1,10.1016/j.msea.2011.11.001
+719,Mo73Si10B14Hf3,None,None,strain rates  2*10-2s-1,UTS,EXP,None,1798.15,263000000.0,None,Pa,T1,10.1016/j.msea.2011.11.001
+720,Mo80Si9B8Hf3,None,None,strain rates  3*10-4s-1,Tensile Ductility,EXP,None,1673.15,170.0,None,%,T2,10.1016/j.msea.2011.11.001
+721,Mo80Si9B8Hf3,None,None,strain rates  3*10-4s-1,Tensile Ductility,EXP,None,1723.15,200.0,None,%,T2,10.1016/j.msea.2011.11.001
+722,Mo80Si9B8Hf3,None,None,strain rates  3*10-4s-1,Tensile Ductility,EXP,None,1803.15,290.0,None,%,T2,10.1016/j.msea.2011.11.001
+723,Mo80Si9B8Hf3,None,None,strain rates  3*10-4s-1,Tensile Ductility,EXP,None,1833.15,410.0,None,%,T2,10.1016/j.msea.2011.11.001
+724,Mo80Si9B8Hf3,None,None,strain rates  3*10-4s-1,UTS,EXP,None,1673.15,182000000.0,None,Pa,T2,10.1016/j.msea.2011.11.001
+725,Mo80Si9B8Hf3,None,None,strain rates  3*10-4s-1,UTS,EXP,None,1723.15,128000000.0,None,Pa,T2,10.1016/j.msea.2011.11.001
+726,Mo80Si9B8Hf3,None,None,strain rates  3*10-4s-1,UTS,EXP,None,1803.15,86000000.0,None,Pa,T2,10.1016/j.msea.2011.11.001
+727,Mo80Si9B8Hf3,None,None,strain rates  3*10-4s-1,UTS,EXP,None,1833.15,60000000.0,None,Pa,T2,10.1016/j.msea.2011.11.001
+728,Mo80Si9B8Hf3,None,None,strain rates  1*10-3s-1,Tensile Ductility,EXP,None,1803.15,156.0,None,%,T2,10.1016/j.msea.2011.11.001
+729,Mo80Si9B8Hf3,None,None,strain rates  1*10-3s-1,Tensile Ductility,EXP,None,1833.15,210.0,None,%,T2,10.1016/j.msea.2011.11.001
+730,Mo80Si9B8Hf3,None,None,strain rates  1*10-3s-1,UTS,EXP,None,1803.15,153000000.0,None,Pa,T2,10.1016/j.msea.2011.11.001
+731,Mo80Si9B8Hf3,None,None,strain rates  1*10-3s-1,UTS,EXP,None,1833.15,116000000.0,None,Pa,T2,10.1016/j.msea.2011.11.001
+732,Mo80Si9B8Hf3,None,None,strain rates  5*10-2s-1,Tensile Ductility,EXP,None,1673.15,60.0,None,%,T2,10.1016/j.msea.2011.11.001
+733,Mo80Si9B8Hf3,None,None,strain rates  5*10-2s-1,Tensile Ductility,EXP,None,1723.15,68.0,None,%,T2,10.1016/j.msea.2011.11.001
+734,Mo80Si9B8Hf3,None,None,strain rates  5*10-2s-1,Tensile Ductility,EXP,None,1803.15,75.0,None,%,T2,10.1016/j.msea.2011.11.001
+735,Mo80Si9B8Hf3,None,None,strain rates  5*10-2s-1,Tensile Ductility,EXP,None,1833.15,86.0,None,%,T2,10.1016/j.msea.2011.11.001
+736,Mo80Si9B8Hf3,None,None,strain rates  5*10-2s-1,UTS,EXP,None,1673.15,280000000.0,None,Pa,T2,10.1016/j.msea.2011.11.001
+737,Mo80Si9B8Hf3,None,None,strain rates  5*10-2s-1,UTS,EXP,None,1723.15,210000000.0,None,Pa,T2,10.1016/j.msea.2011.11.001
+738,Mo80Si9B8Hf3,None,None,strain rates  5*10-2s-1,UTS,EXP,None,1803.15,1820000000.0,None,Pa,T2,10.1016/j.msea.2011.11.001
+739,Mo80Si9B8Hf3,None,None,strain rates  5*10-2s-1,UTS,EXP,None,1833.15,145000000.0,None,Pa,T2,10.1016/j.msea.2011.11.001
+740,W95.8Zr0.5C3.7,BCC+FCC,None,None,Tensile Ductility,EXP,None,298.15,1.1,None,%,T1,10.1038/srep16014
+741,W95.8Zr0.5C3.7,BCC+FCC,None,None,Tensile Ductility,EXP,None,398.15,2.7,None,%,T1,10.1038/srep16014
+742,W95.8Zr0.5C3.7,BCC+FCC,None,None,Tensile Ductility,EXP,None,448.15,6.5,None,%,T1,10.1038/srep16014
+743,W95.8Zr0.5C3.7,BCC+FCC,None,None,Tensile Ductility,EXP,None,498.15,14.2,None,%,T1,10.1038/srep16014
+744,W95.8Zr0.5C3.7,BCC+FCC,None,None,Tensile Ductility,EXP,None,598.15,21.3,None,%,T1,10.1038/srep16014
+745,W95.8Zr0.5C3.7,BCC+FCC,None,None,Tensile Ductility,EXP,None,698.15,27.2,None,%,T1,10.1038/srep16014
+746,W95.8Zr0.5C3.7,BCC+FCC,None,None,Tensile Ductility,EXP,None,798.15,41.0,None,%,T1,10.1038/srep16014
+747,ZrNbHf,BCC,None,None,Tensile Ductility,DFT,None,0.0,9.0,None,%,T1,10.1038/srep12334
+748,ZrVTiNb,BCC,None,None,Tensile Ductility,DFT,None,0.0,13.3,None,%,T1,10.1038/srep12334
+749,ZrTiNbHf,BCC,None,None,Tensile Ductility,DFT,None,0.0,8.9,None,%,T1,10.1038/srep12334
+750,ZrVTiNbHf,BCC,None,None,Tensile Ductility,DFT,None,0.0,12.1,None,%,T1,10.1038/srep12334
+751,Ti51Al45Cr2Nb2,None,None,None,Tensile Ductility,EXP,None,298.15,0.65,None,%,T2,10.1016/j.vacuum.2017.11.032
+752,AlNbTiZr,BCC+B2,AC,None,Compressive Ductility,EXP,None,298.15,8.6,None,%,T2,10.1080-02670836.2018.1446267
+753,AlNbTiZr,BCC+B2,H,None,Compressive Ductility,EXP,None,298.15,17.8,None,%,T2,10.1080-02670836.2018.1446267
+754,NbHfTi,None,None,None,Tensile Ductility,EXP,None,298.15,36.5,None,%,T3,10.1007/s11665-018-3146-8
+755,NbHfTi,None,AW,As welded,Tensile Ductility,EXP,None,298.15,31.5,None,%,T3,10.1007/s11665-018-3146-8
+756,NbHfTi,None,AW+VA,As welded + vacuum annealed,Tensile Ductility,EXP,None,298.15,35.0,None,%,T3,10.1007/s11665-018-3146-8
